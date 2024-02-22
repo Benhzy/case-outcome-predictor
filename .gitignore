@@ -1,0 +1,8 @@
+# Raw data files
+raw-cases/
+
+# Environment Variables
+.env
+
+# Virtual environment
+.venv
