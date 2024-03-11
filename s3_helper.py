@@ -23,4 +23,4 @@ def case_download():
 
 # Uncomment the following lines to upload to/download from s3
 #case_upload()
-#case_download()
+case_download()
