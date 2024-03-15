@@ -1,7 +1,10 @@
 import os
 import pandas as pd
+from dotenv import load_dotenv
 
-PATH = r"raw-cases"
+load_dotenv()
+
+PATH = os.environ.get("FILE_PATH")
 
 def extract_court_level(path=PATH) -> list:
     """ Extract the court level for each legal case found in the given folder path """
