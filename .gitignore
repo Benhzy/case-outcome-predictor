@@ -1,5 +1,6 @@
 # Raw data files
 data/raw
+raw-cases
 
 # Environment Variables
 .env
