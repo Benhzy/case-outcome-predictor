@@ -1,6 +1,6 @@
 import os
 
-PATH = r"data\raw"
+PATH = r"raw-cases"
 
 def extract_court_level(path=PATH) -> set:
     """ Extract the court level for each legal case found in the given folder path """
