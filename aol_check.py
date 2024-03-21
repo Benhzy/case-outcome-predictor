@@ -1,5 +1,6 @@
 import pypdf
 import os
+import re
 import pandas as pd
 
 AREA_OF_LAW = ['civil procedure',
@@ -38,6 +39,7 @@ AREA_OF_LAW = ['civil procedure',
  'building and construction law',
  'mental disorders and treatment',
  'intellectual property',
+ 'trade marks and trade names',
  'constitutional law',
  'immigration',
  'legal profession',
@@ -52,14 +54,42 @@ AREA_OF_LAW = ['civil procedure',
  'road traffic',
  'bills of exchange and other negotiable instruments',
  'commercial transactions',
- 'confidence']
+ 'confidence',
+ 'Partnership',
+ 'Unincorporated Associations and Trade Unions']
+# "trade marks and trade names", is supposed to be under IP, but in pre-2017 cases they are not 
+
 
 def find_aol(text):
-    found_areas = []
-    for area in AREA_OF_LAW:
-        if area in text.lower():
-            found_areas.append(area)
-    return found_areas
+    patterns = [
+        r"(\[\n?|\n)(\b(?:{}))\s*[—–-]\s*\[?([^—–\]]+)\]?\s*[—–-]",
+    ]
+
+    aol_dict = {}
+
+    for pattern in patterns:
+        formatted_pattern = pattern.format("|".join(map(re.escape, AREA_OF_LAW)))
+        matches = re.finditer(formatted_pattern, text, re.IGNORECASE)
+        for match in matches:
+            if len(match.groups()) == 3:
+                main_area = match.group(2).lower()  
+                sub_area = match.group(3).strip().lower()
+            else:
+                main_area = match.group(1).lower()  
+                sub_area = match.group(2).strip().lower() 
+                print(main_area)
+
+            if '\n' in sub_area:
+                    sub_area = sub_area.split("\n")[0]
+
+            # Add the main area and sub-area to the dictionary
+            if main_area in aol_dict:
+                if sub_area not in aol_dict[main_area] and sub_area != '':
+                    aol_dict[main_area].append(sub_area)
+            else:
+                aol_dict[main_area] = [sub_area]
+
+    return aol_dict
 
 def extract_aol(pdf_path):
     text = ''
@@ -89,7 +119,7 @@ def process_folder(folder_path):
     return df
  
 folder_path = 'raw-cases'
-# folder_path = 'test'
+folder_path = 'test'
 df = process_folder(folder_path)
  
 csv_file_path = 'areas_of_law.csv'
