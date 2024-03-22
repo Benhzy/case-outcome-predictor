@@ -1,9 +1,9 @@
 import os
 import boto3
 
-AWS_REGION = os.environ.get("AWS_REGION")
-AWS_ACCESS_KEY_ID = os.environ.get("AWS_ACCESS_KEY_ID")
-AWS_SECRET_ACCESS_KEY = os.environ.get("AWS_SECRET_ACCESS_KEY")
+AWS_REGION = os.getenv("AWS_REGION") 
+AWS_ACCESS_KEY_ID = os.getenv("AWS_ACCESS_KEY_ID") 
+AWS_SECRET_ACCESS_KEY = os.getenv("AWS_SECRET_ACCESS_KEY")  
 
 s3 = boto3.client('s3', region_name=AWS_REGION, aws_access_key_id=AWS_ACCESS_KEY_ID,
                           aws_secret_access_key=AWS_SECRET_ACCESS_KEY)
@@ -23,4 +23,4 @@ def case_download():
 
 # Uncomment the following lines to upload to/download from s3
 #case_upload()
-#case_download()
+case_download()
