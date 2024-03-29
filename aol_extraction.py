@@ -130,7 +130,7 @@ def process_folder(folder_path):
     df = pd.DataFrame(data)
     return df
  
-folder_path = 'raw-cases'
+folder_path = 'data/raw'
 # folder_path = 'test'
 df = process_folder(folder_path)
  
