@@ -24,15 +24,15 @@ def extract_facts(pdf_path):
     text = read_pdf_text(pdf_path)
 
     # Define start pattern for facts section
-    start_pattern = re.compile(r"(Background|The facts)", re.IGNORECASE)
+    start_pattern = re.compile(r"(The facts|The Background|Factual Background|Background Facts|Background to the dispute|The underlying facts|Pertinent background facts|Background|facts)", re.IGNORECASE)
     
     # Define a generic end pattern assuming the start of a new section
-    end_pattern = re.compile(r"(Prosecution evidence|Decision on|The defence|Alibi)", re.IGNORECASE)
+    end_pattern = re.compile(r"(the issues|the issues on appeal|the appeal|appeal|the claim|the present claim|background to the dispute|the substantive issue|issues to be determined|the relevant issues)", re.IGNORECASE)
 
     # Search for the start of the facts section
     start_match = start_pattern.search(text)
     if not start_match:
-        return "Background section not found."
+        return ""
 
     # Extract starting point
     facts_start = start_match.start()
