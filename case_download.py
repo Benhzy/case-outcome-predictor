@@ -17,7 +17,7 @@ def download_files():
 
                 # Check if the request was successful and the content is a PDF
                 if response.status_code == 200 and 'application/pdf' in response.headers.get('Content-Type', ''):
-                    s3_key = f'raw-cases/{year}_{court}_{case_id}.pdf'
+                    s3_key = f'data/raw/{year}_{court}_{case_id}.pdf'
                     file = open(s3_key, "wb")
                     file.write(response.content)
                     file.close()        
