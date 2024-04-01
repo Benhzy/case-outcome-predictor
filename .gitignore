@@ -7,3 +7,6 @@ raw-cases
 
 # Virtual environment
 .venv
+
+# misc
+.DS_Store
