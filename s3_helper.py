@@ -5,8 +5,12 @@ AWS_REGION = os.environ.get("AWS_REGION")
 AWS_ACCESS_KEY_ID = os.environ.get("AWS_ACCESS_KEY_ID")
 AWS_SECRET_ACCESS_KEY = os.environ.get("AWS_SECRET_ACCESS_KEY")
 
-s3 = boto3.client('s3', region_name=AWS_REGION, aws_access_key_id=AWS_ACCESS_KEY_ID,
-                          aws_secret_access_key=AWS_SECRET_ACCESS_KEY)
+# s3 = boto3.client('s3', region_name=AWS_REGION, aws_access_key_id=AWS_ACCESS_KEY_ID,
+#                           aws_secret_access_key=AWS_SECRET_ACCESS_KEY)
+
+s3 = boto3.client('s3', region_name="ap-southeast-1", aws_access_key_id="AKIA3FLDZ5P3PVPJVCF6",
+                          aws_secret_access_key="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")
+
 bucket = 'sg-auth-bucket'
 os.makedirs('data/raw', exist_ok=True)
 
@@ -23,4 +27,4 @@ def case_download():
 
 # Uncomment the following lines to upload to/download from s3
 #case_upload()
-#case_download()
+case_download()
