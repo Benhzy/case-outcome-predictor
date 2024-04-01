@@ -6,7 +6,14 @@ import os
 
 def read_pdf_text(pdf_path, skip_toc=True):
     reader = PdfReader(pdf_path)
-    text_by_page = [page.extract_text() + '\n' for page in reader.pages]
+    text_by_page = []
+    for page in reader.pages:
+        try:
+            page_text = page.extract_text() + '\n'
+            text_by_page.append(page_text)
+        except IndexError as e:
+            print(f"Skipping a page due to an error: {e}")
+            continue  # Skip this page and continue with the next
 
     # Identify pages to skip based on TABLE OF CONTENTS
     skip_pages = set()
@@ -19,6 +26,7 @@ def read_pdf_text(pdf_path, skip_toc=True):
     # Combine texts of pages not skipped
     text = ''.join([text for i, text in enumerate(text_by_page) if i not in skip_pages])
     return text
+
 
 def extract_facts(pdf_path):
     text = read_pdf_text(pdf_path)
@@ -43,7 +51,7 @@ def extract_facts(pdf_path):
     if end_match:
         facts_end = end_match.start()
     else:
-        facts_end = len(text)  # Assume facts go till document's end if no explicit end pattern found
+        facts_end = len(text) 
 
     # Extract and return the facts text
     facts_text = text[facts_start:facts_end].strip()
@@ -67,7 +75,7 @@ def process_folder(folder_path):
     return df
 
 folder_path = 'data/raw'
-# folder_path = 'test'
+# folder_path = 'data/test'
 df = process_folder(folder_path)
  
 csv_file_path = 'facts.csv'
