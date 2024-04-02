@@ -12,9 +12,9 @@ def extract_court_level(path=PATH) -> list:
     court_levels = []
     for file in os.listdir(path):
         year, court_level, case = file.split("_")
-        court_levels.append(court_level)
+        court_levels.append([file, court_level])
     return court_levels
 
-data = pd.DataFrame(extract_court_level(PATH), columns=["court_level"])
+data = pd.DataFrame(extract_court_level(PATH), columns=["filename", "court_level"])
 
 data.to_csv("sg_legal_cases_dataset.csv", index=False)
