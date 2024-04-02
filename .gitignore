@@ -8,3 +8,6 @@ raw-cases
 # Virtual environment
 .venv
 issues.csv
+
+# misc
+.DS_Store
