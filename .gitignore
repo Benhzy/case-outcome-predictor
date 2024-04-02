@@ -7,3 +7,4 @@ raw-cases
 
 # Virtual environment
 .venv
+issues.csv
