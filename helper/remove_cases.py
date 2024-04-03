@@ -14,5 +14,5 @@ def delete_cases(directory, csv_file):
             print(f"File not found: {file_path}")
 
 
-path = 'data/raw'
+path = 'raw-cases/raw-cases'
 delete_cases(path, 'reassigned_cases.csv')
