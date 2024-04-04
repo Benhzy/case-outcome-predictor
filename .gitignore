@@ -6,3 +6,7 @@ data/raw
 
 # Virtual environment
 .venv
+
+# Data
+final_coram_data.csv
+Unusable Files.csv
