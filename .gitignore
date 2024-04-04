@@ -1,12 +1,13 @@
 # Raw data files
-raw/
+data/raw
+raw-cases
 
 # Environment Variables
 .env
 
 # Virtual environment
 .venv
+issues.csv
 
-# Data
-final_coram_data.csv
-Unusable Files.csv
+# misc
+.DS_Store
