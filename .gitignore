@@ -1,5 +1,5 @@
 # Raw data files
-data/raw
+raw/
 
 # Environment Variables
 .env
