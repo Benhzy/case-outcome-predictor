@@ -78,5 +78,5 @@ folder_path = 'data/raw'
 # folder_path = 'data/test'
 df = process_folder(folder_path)
  
-csv_file_path = 'facts.csv'
-df.to_csv(csv_file_path, index=False)
+json_file_path = 'facts.json'
+df.to_json(json_file_path, orient='records', lines=True)
