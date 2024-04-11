@@ -5,6 +5,7 @@ import os
 import pandas as pd
 import difflib
 import fitz
+import ast
 
 SUPREME_COURT_JUDGES = [
     'Sundaresh Menon', 'Tay Yong Kwang', 'Steven Chong', 'Belinda Ang',
@@ -170,13 +171,12 @@ def coram_extraction_post_2016(pdf_path):
         recognized_names = identify_names_with_spaCy(text)
         print(f"NER Names: {recognized_names}")
         return recognized_names
-    
     return coram_names
 
 # Step 4B: Output or store recognised names pre-2016 format
 def coram_extraction_pre_2016(pdf_path):
     coram_pattern = re.compile(r"(Coram)\s*:\s*(.+)")
-    remove_title_pattern = r'\b(?:CJ|SJ|JC|JA|J)\b'  # Add more titles as needed
+    remove_title_pattern = r'\b(?: CJ| SJ| JC| JA| J| AG| DCJ| AR| SAR)\b'  # Add more titles as needed
     case_coram_list = []
     
     doc = fitz.open(pdf_path)
@@ -187,10 +187,14 @@ def coram_extraction_pre_2016(pdf_path):
         coram_name_without_title = re.sub(remove_title_pattern, '', match.group(2))
 
         #Remove extra whitespace
-        coram_name_without_title = coram_name_without_title.strip().replace(';', ',')
+        coram_name_without_title = coram_name_without_title.strip()
         case_coram_list.append(coram_name_without_title)
 
-    return case_coram_list
+    if isinstance(case_coram_list, list):
+        return case_coram_list
+    else:
+        case_coram_list = ast.literal_eval(case_coram_list)
+        return case_coram_list
 
 
 def batch_process_coram(folder_path):
@@ -226,12 +230,14 @@ def batch_process_coram(folder_path):
     }
 
     df = pd.DataFrame(coram_dict)
+    print(df)
     df.to_csv('final_coram_data.csv')
 
 
     unusable_files_dict = {'fname': unusable_files}
 
     df2 = pd.DataFrame(unusable_files_dict)
+    print(df2)
     df2.to_csv('Unusable Files.csv')
 
     print(
