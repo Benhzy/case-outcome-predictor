@@ -1,11 +1,11 @@
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.decomposition import LatentDirichletAllocation
 import re
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 import nltk
 import json
+from gensim import corpora, models
 
 nltk.download('stopwords')
 nltk.download('wordnet')
@@ -39,12 +39,15 @@ def preprocess_text(text):
     return ' '.join(words)
 
 def perform_topic_modeling(df, num_topics=20):
-    vectorizer = TfidfVectorizer(max_features=5000)
-    tfidf = vectorizer.fit_transform(df['processed_facts'])
-    lda = LatentDirichletAllocation(n_components=num_topics, random_state=33)
-    lda.fit(tfidf)
-    topic_results = lda.transform(tfidf)
-    df['themes'] = topic_results.argmax(axis=1)
+    texts = [doc.split() for doc in df['processed_facts']]
+    dictionary = corpora.Dictionary(texts)
+    corpus = [dictionary.doc2bow(text) for text in texts]
+
+    lsa_model = models.LsiModel(corpus, num_topics=num_topics, id2word=dictionary)
+    topics_matrix = lsa_model[corpus]
+
+    topics = [max(prob, key=lambda y: y[1])[0] for prob in topics_matrix]
+    df['themes'] = topics
     df.drop(columns=['processed_facts'], inplace=True)
     return df
 
