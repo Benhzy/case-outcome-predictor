@@ -82,7 +82,7 @@ Unnamed: 0,casename,Coram
 80,2013_SGCA_57.pdf,"['Sundaresh Menon', 'V K Rajah', 'Judith Prakash']"
 81,2013_SGCA_43.pdf,"['Sundaresh Menon', 'Chao Hick Tin', 'Judith Prakash']"
 82,2021_SGCA_3.pdf,['Tay Yong Kwang']
-83,2010_SGHC_193.pdf,['Teo Guan Siew AR']
+83,2010_SGHC_193.pdf,['Teo Guan Siew']
 84,2015_SGHC_229.pdf,['Aedit Abdullah']
 85,2022_SGHC_46.pdf,['Lee Seiu Kin']
 86,2004_SGHC_195.pdf,['Andrew Ang']
@@ -297,7 +297,7 @@ Unnamed: 0,casename,Coram
 295,2004_SGHC_235.pdf,['Lai Siu Chiu']
 296,2004_SGCA_49.pdf,"['Yong Pung How', 'Chao Hick Tin', 'Choo Han Teck']"
 297,2009_SGCA_35.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chan Sek Keong']"
-298,2011_SGHC_156.pdf,['Fong Mian Yi Seraphina AR']
+298,2011_SGHC_156.pdf,['Fong Mian Yi Seraphina']
 299,2015_SGCA_20.pdf,"['Sundaresh Menon', 'Chao Hick Tin', 'Chan Sek Keong']"
 300,2014_SGHC_207.pdf,['Lee Kim Shin']
 301,2021_SGCA_94.pdf,"['Sundaresh Menon', 'Judith Prakash', 'Woo Bih Li']"
@@ -353,7 +353,7 @@ Unnamed: 0,casename,Coram
 351,2003_SGHC_235.pdf,['S Rajendran']
 352,2009_SGHC_118.pdf,['Chan Seng Onn']
 353,2013_SGHC_35.pdf,['Lee Seiu Kin']
-354,2004_SGHC_5.pdf,['Dawn Tan Ly-Ru AR']
+354,2004_SGHC_5.pdf,['Dawn Tan Ly-Ru']
 355,2015_SGHC_7.pdf,['Quentin Loh']
 356,2005_SGHC_93.pdf,['Tay Yong Kwang']
 357,2019_SGHC_86.pdf,['Belinda Ang']
@@ -492,7 +492,7 @@ Unnamed: 0,casename,Coram
 490,2017_SGCA_15.pdf,"['Sundaresh Menon', 'Tay Yong Kwang', 'Judith Prakash']"
 491,2016_SGHC_220.pdf,['Andrew Ang']
 492,2020_SGHC_183.pdf,['Andre Maniam']
-493,2003_SGHC_143.pdf,['Phang Hsiao Chung AR']
+493,2003_SGHC_143.pdf,['Phang Hsiao Chung']
 494,2009_SGHC_285.pdf,['Tan Lee Meng']
 495,2001_SGCA_58.pdf,"['L P Thean', 'Yong Pung How', 'Chao Hick Tin']"
 496,2010_SGCA_31.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chan Sek Keong']"
@@ -557,7 +557,7 @@ Unnamed: 0,casename,Coram
 556,2015_SGHC_41.pdf,['Edmund Leow']
 557,2009_SGHC_54.pdf,['Belinda Ang Saw Ean']
 558,2017_SGHC_184.pdf,['Woo Bih Li']
-559,2004_SGHC_28.pdf,['Teh Hwee Hwee AR']
+559,2004_SGHC_28.pdf,['Teh Hwee Hwee']
 560,2001_SGHC_2.pdf,['Lai Siu Chiu']
 561,2018_SGHC_15.pdf,['Hoo Sheau Peng']
 562,2015_SGHC_69.pdf,['Chan Seng Onn']
@@ -613,7 +613,7 @@ Unnamed: 0,casename,Coram
 612,2012_SGHC_71.pdf,['Quentin Loh']
 613,2022_SGHC_45.pdf,['Vinodh Coomaraswamy']
 614,2004_SGHC_196.pdf,['Choo Han Teck']
-615,2007_SGHC_73.pdf,['Yap Yew Choh Kenneth AR']
+615,2007_SGHC_73.pdf,['Yap Yew Choh Kenneth']
 616,2000_SGHC_149.pdf,['Amarjeet Singh']
 617,2002_SGCA_29.pdf,"['Tan Lee Meng', 'Yong Pung How', 'Chao Hick Tin']"
 618,2013_SGCA_40.pdf,"['V K Rajah', 'Chao Hick Tin', 'Tay Yong Kwang']"
@@ -661,7 +661,7 @@ Unnamed: 0,casename,Coram
 660,2022_SGHC_92.pdf,['Lee Seiu Kin']
 661,2011_SGHC_222.pdf,['Choo Han Teck']
 662,2014_SGHC_198.pdf,['Choo Han Teck']
-663,2004_SGHC_169.pdf,['Joyce Low Wei Lin AR']
+663,2004_SGHC_169.pdf,['Joyce Low Wei Lin']
 664,2000_SGHC_43.pdf,['Tay Yong Kwang']
 665,2022_SGHC_213.pdf,['Vinodh Coomaraswamy']
 666,2023_SGHC_176.pdf,['Audrey Lim']
@@ -722,7 +722,7 @@ Unnamed: 0,casename,Coram
 721,2006_SGHC_199.pdf,['Woo Bih Li']
 722,2019_SGHC_90.pdf,['Chan Seng Onn']
 723,2016_SGHC_140.pdf,['Chua Lee Ming']
-724,2005_SGHC_85.pdf,['Vincent Leow AR']
+724,2005_SGHC_85.pdf,['Vincent Leow']
 725,2002_SGHC_146.pdf,['Lai Kew Chai']
 726,2022_SGCA_26.pdf,"['Andrew Phang Boon Leong', 'Belinda Ang', 'Judith Prakash', 'Sundaresh Menon', 'Chao Hick Tin']"
 727,2007_SGCA_10.pdf,"['Andrew Phang Boon Leong', 'Tan Lee Meng', 'Kan Ting Chiu']"
@@ -762,7 +762,7 @@ Unnamed: 0,casename,Coram
 761,2017_SGHC_74.pdf,['George Wei']
 762,2000_SGHC_203.pdf,['Choo Han Teck']
 763,2010_SGHC_93.pdf,['Belinda Ang Saw Ean']
-764,2006_SGHC_35.pdf,['Daphne Hong Fan Sin AR']
+764,2006_SGHC_35.pdf,['Daphne Hong Fan Sin']
 765,2015_SGHC_160.pdf,['Choo Han Teck']
 766,2021_SGCA_96.pdf,"['Steven Chong', 'Andrew Phang Boon Leong', 'Judith Prakash', 'Sundaresh Menon', 'Tay Yong Kwang']"
 767,2014_SGHC_205.pdf,['Chan Seng Onn']
@@ -770,7 +770,7 @@ Unnamed: 0,casename,Coram
 769,2012_SGCA_12.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chan Sek Keong']"
 770,2021_SGCA_82.pdf,"['Andrew Phang Boon Leong', 'Tay Yong Kwang', 'Chao Hick Tin']"
 771,2001_SGHC_172.pdf,['Choo Han Teck']
-772,2006_SGHC_21.pdf,['Christopher de Souza AR']
+772,2006_SGHC_21.pdf,['Christopher de Souza']
 773,2017_SGHC_48.pdf,['George Wei']
 774,2015_SGHC_174.pdf,['Steven Chong']
 775,2000_SGHC_217.pdf,['Lee Seiu Kin']
@@ -785,12 +785,12 @@ Unnamed: 0,casename,Coram
 784,2015_SGCA_36.pdf,"['Sundaresh Menon', 'Chao Hick Tin', 'Chan Sek Keong']"
 785,2009_SGCA_23.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chan Sek Keong']"
 786,2022_SGHC_159.pdf,['See Kee Oon']
-787,2011_SGHC_154.pdf,['Tan Sze Yao AR']
+787,2011_SGHC_154.pdf,['Tan Sze Yao']
 788,2015_SGCA_22.pdf,"['Sundaresh Menon', 'Andrew Phang Boon Leong', 'Quentin Loh']"
 789,2009_SGCA_37.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chao Hick Tin']"
 790,2004_SGHC_237.pdf,['V K Rajah']
 791,2023_SGHC_228.pdf,['Aedit Abdullah']
-792,2010_SGHC_231.pdf,['Crystal Tan Huiling AR']
+792,2010_SGHC_231.pdf,['Crystal Tan Huiling']
 793,2010_SGHC_78.pdf,['Chan Seng Onn']
 794,2001_SGHC_11.pdf,['Tay Yong Kwang']
 795,2005_SGHC_152.pdf,['Kan Ting Chiu']
@@ -816,7 +816,7 @@ Unnamed: 0,casename,Coram
 815,2021_SGCA_40.pdf,"['Belinda Ang', 'Chao Hick Tin', 'Andrew Phang Boon Leong']"
 816,2002_SGCA_6.pdf,"['L P Thean', 'Yong Pung How', 'Chao Hick Tin']"
 817,2023_SGHC_215.pdf,['Kwek Mean Luck']
-818,2010_SGHC_45.pdf,['Nathaniel Khng AR']
+818,2010_SGHC_45.pdf,['Nathaniel Khng']
 819,2001_SGHC_38.pdf,['Woo Bih Li']
 820,2010_SGHC_51.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chan Sek Keong']"
 821,2010_SGHC_218.pdf,['Steven Chong']
@@ -872,7 +872,7 @@ Unnamed: 0,casename,Coram
 871,2007_SGCA_39.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chan Sek Keong']"
 872,2008_SGHC_242.pdf,['Judith Prakash']
 873,2016_SGHC_169.pdf,['Foo Chee Hock']
-874,2009_SGHC_127.pdf,['Leo Zhen Wei Lionel AR']
+874,2009_SGHC_127.pdf,['Leo Zhen Wei Lionel']
 875,2002_SGHC_63.pdf,['Lai Siu Chiu']
 876,2009_SGHC_133.pdf,['Lee Seiu Kin']
 877,2022_SGHC_4.pdf,['Tan Siong Thye']
@@ -961,12 +961,12 @@ Unnamed: 0,casename,Coram
 960,2019_SGCA_25.pdf,"['Steven Chong', 'Andrew Phang Boon Leong', 'Judith Prakash', 'Sundaresh Menon', 'Tay Yong Kwang']"
 961,2005_SGHC_225.pdf,['Andrew Phang Boon Leong']
 962,2014_SGHC_199.pdf,['Choo Han Teck']
-963,2011_SGHC_223.pdf,['Shaun Leong Li Shiong AR']
+963,2011_SGHC_223.pdf,['Shaun Leong Li Shiong']
 964,2022_SGHC_93.pdf,['Choo Han Teck']
 965,2004_SGHC_140.pdf,['Belinda Ang Saw Ean']
 966,2011_SGHC_17.pdf,['Steven Chong']
 967,2022_SGHC_87.pdf,['Choo Han Teck']
-968,2009_SGHC_5.pdf,['Teo Guan Siew AR']
+968,2009_SGHC_5.pdf,['Teo Guan Siew']
 969,2004_SGHC_154.pdf,['Tay Yong Kwang']
 970,2018_SGHC_7.pdf,['Kannan Ramesh']
 971,2011_SGHC_237.pdf,['Choo Han Teck']
@@ -991,12 +991,12 @@ Unnamed: 0,casename,Coram
 990,2000_SGHC_174.pdf,['Kan Ting Chiu']
 991,2015_SGHC_217.pdf,['Chao Hick Tin']
 992,2013_SGCA_55.pdf,"['Sundaresh Menon', 'V K Rajah', 'Quentin Loh']"
-993,2010_SGHC_185.pdf,['Nathaniel Khng AR']
+993,2010_SGHC_185.pdf,['Nathaniel Khng']
 994,2001_SGHC_239.pdf,['Judith Prakash']
 995,2004_SGHC_183.pdf,['Woo Bih Li']
 996,2022_SGHC_50.pdf,['Kannan Ramesh']
 997,2007_SGHC_66.pdf,['Tay Yong Kwang']
-998,2007_SGHC_72.pdf,['Low Wan Jun Tammy AR']
+998,2007_SGHC_72.pdf,['Low Wan Jun Tammy']
 999,2004_SGHC_197.pdf,['Judith Prakash']
 1000,2022_SGHC_44.pdf,['Lai Siu Chiu']
 1001,2023_SGHC_188.pdf,"['Sundaresh Menon', 'Tay Yong Kwang', 'Vincent Hoong']"
@@ -1152,7 +1152,7 @@ Unnamed: 0,casename,Coram
 1151,2009_SGHC_92.pdf,['Choo Han Teck']
 1152,2017_SGHC_142.pdf,['Choo Han Teck']
 1153,2015_SGHC_87.pdf,['Quentin Loh']
-1154,2009_SGHC_269.pdf,['Ho May Kim AR']
+1154,2009_SGHC_269.pdf,['Ho May Kim']
 1155,2003_SGHC_144.pdf,['S Rajendran']
 1156,2020_SGHC_184.pdf,['Choo Han Teck']
 1157,2017_SGCA_12.pdf,"['Sundaresh Menon', 'Tay Yong Kwang', 'Andrew Phang Boon Leong']"
@@ -1193,7 +1193,7 @@ Unnamed: 0,casename,Coram
 1192,2005_SGHC_209.pdf,['Andrew Ang']
 1193,2023_SGHC_173.pdf,['Aedit Abdullah']
 1194,2000_SGHC_46.pdf,['Lim Teong Qwee']
-1195,2007_SGHC_89.pdf,['Paul Tan AR']
+1195,2007_SGHC_89.pdf,['Paul Tan']
 1196,2022_SGHC_216.pdf,['Aedit Abdullah']
 1197,2022_SGHC_202.pdf,['Tan Siong Thye']
 1198,2004_SGHC_178.pdf,['Choo Han Teck']
@@ -1291,7 +1291,7 @@ Unnamed: 0,casename,Coram
 1290,2013_SGHC_32.pdf,['Quentin Loh']
 1291,2004_SGHC_2.pdf,['Woo Bih Li']
 1292,2006_SGHC_188.pdf,['Tan Lee Meng']
-1293,2003_SGHC_232.pdf,['Dawn Tan Ly-Ru AR']
+1293,2003_SGHC_232.pdf,['Dawn Tan Ly-Ru']
 1294,2016_SGCA_68.pdf,"['Sundaresh Menon', 'Andrew Phang Boon Leong']"
 1295,2017_SGHC_234.pdf,['Lai Siu Chiu']
 1296,2021_SGHC_197.pdf,['Valerie Thean']
@@ -1304,7 +1304,7 @@ Unnamed: 0,casename,Coram
 1303,2010_SGHC_96.pdf,['Woo Bih Li']
 1304,2017_SGHC_59.pdf,['Belinda Ang']
 1305,2015_SGHC_165.pdf,[]
-1306,2006_SGHC_30.pdf,['Yeong Zee Kin AR']
+1306,2006_SGHC_30.pdf,['Yeong Zee Kin']
 1307,2015_SGHC_171.pdf,['Aedit Abdullah']
 1308,2006_SGHC_24.pdf,['Yong Pung How']
 1309,2000_SGHC_212.pdf,['Choo Han Teck']
@@ -1327,7 +1327,7 @@ Unnamed: 0,casename,Coram
 1326,2022_SGHC_160.pdf,['Ang Cheng Hock']
 1327,2021_SGCA_50.pdf,"['Sundaresh Menon', 'Steven Chong', 'Judith Prakash']"
 1328,2023_SGHC_205.pdf,['Lai Siu Chiu']
-1329,2010_SGHC_55.pdf,['Lee Yeow Wee David AR']
+1329,2010_SGHC_55.pdf,['Lee Yeow Wee David']
 1330,2001_SGHC_28.pdf,['Judith Prakash']
 1331,2010_SGHC_41.pdf,['Philip Pillai']
 1332,2023_SGHC_211.pdf,['Hri Kumar Nair']
@@ -1349,7 +1349,7 @@ Unnamed: 0,casename,Coram
 1348,2001_SGHC_14.pdf,['Yong Pung How']
 1349,2005_SGHC_157.pdf,['Lai Siu Chiu']
 1350,2009_SGCA_32.pdf,"['V K Rajah', 'Chao Hick Tin']"
-1351,2011_SGHC_151.pdf,['Colin Liew AR']
+1351,2011_SGHC_151.pdf,['Colin Liew']
 1352,2015_SGCA_27.pdf,"['Sundaresh Menon', 'Steven Chong', 'Chao Hick Tin']"
 1353,2022_SGHC_148.pdf,['Tan Siong Thye']
 1354,2004_SGHC_232.pdf,['Tan Lee Meng']
@@ -1388,7 +1388,7 @@ Unnamed: 0,casename,Coram
 1387,2011_SGHC_178.pdf,['Judith Prakash']
 1388,2010_SGHC_54.pdf,['Steven Chong']
 1389,2023_SGHC_204.pdf,['Sundaresh Menon']
-1390,2006_SGHC_19.pdf,['Yeong Zee Kin AR']
+1390,2006_SGHC_19.pdf,['Yeong Zee Kin']
 1391,2017_SGHC_70.pdf,['Lee Seiu Kin']
 1392,2005_SGHC_195.pdf,['Yong Pung How']
 1393,2014_SGHC_229.pdf,['Choo Han Teck']
@@ -1410,7 +1410,7 @@ Unnamed: 0,casename,Coram
 1409,2006_SGHC_31.pdf,['Lai Siu Chiu']
 1410,2015_SGHC_164.pdf,['Tay Yong Kwang']
 1411,2017_SGHC_58.pdf,['Vinodh Coomaraswamy']
-1412,2010_SGHC_97.pdf,['Jeyendran Jeyapal AR']
+1412,2010_SGHC_97.pdf,['Jeyendran Jeyapal']
 1413,2000_SGHC_207.pdf,['Chan Seng Onn']
 1414,2003_SGHC_233.pdf,['Belinda Ang Saw Ean']
 1415,2006_SGHC_189.pdf,['Judith Prakash']
@@ -1487,7 +1487,7 @@ Unnamed: 0,casename,Coram
 1486,2001_SGHC_360.pdf,['Lai Siu Chiu']
 1487,2020_SGHC_48.pdf,['Valerie Thean']
 1488,2006_SGHC_162.pdf,['Sundaresh Menon']
-1489,2011_SGHC_226.pdf,['Leo Zhen Wei Lionel AR']
+1489,2011_SGHC_226.pdf,['Leo Zhen Wei Lionel']
 1490,2022_SGHC_96.pdf,['Ang Cheng Hock']
 1491,2004_SGHC_145.pdf,['Judith Prakash']
 1492,2019_SGCA_20.pdf,"['Sundaresh Menon', 'Steven Chong', 'Tay Yong Kwang']"
@@ -1516,7 +1516,7 @@ Unnamed: 0,casename,Coram
 1515,2023_SGHC_172.pdf,['Philip Jeyaretnam']
 1516,2005_SGHC_208.pdf,['Andrew Ang']
 1517,2022_SGHC_217.pdf,['Vincent Hoong']
-1518,2007_SGHC_88.pdf,['Mohamed Faizal AR']
+1518,2007_SGHC_88.pdf,['Mohamed Faizal']
 1519,2000_SGHC_47.pdf,['Lai Siu Chiu']
 1520,2004_SGHC_186.pdf,['Yong Pung How']
 1521,2022_SGHC_55.pdf,['Kannan Ramesh']
@@ -1605,7 +1605,7 @@ Unnamed: 0,casename,Coram
 1604,2006_SGHC_228.pdf,['Tay Yong Kwang']
 1605,2003_SGHC_192.pdf,['Lai Kew Chai']
 1606,2015_SGHC_51.pdf,['Choo Han Teck']
-1607,2004_SGHC_38.pdf,['Vincent Leow AR']
+1607,2004_SGHC_38.pdf,['Vincent Leow']
 1608,2009_SGHC_44.pdf,['Belinda Ang Saw Ean']
 1609,2017_SGHC_194.pdf,['Aedit Abdullah']
 1610,2018_SGHC_103.pdf,['Hoo Sheau Peng']
@@ -1636,7 +1636,7 @@ Unnamed: 0,casename,Coram
 1635,2007_SGHC_167.pdf,['Choo Han Teck']
 1636,2018_SGHC_129.pdf,['George Wei']
 1637,2012_SGHC_204.pdf,['Judith Prakash']
-1638,2004_SGHC_12.pdf,['Tai Wei Shyong AR']
+1638,2004_SGHC_12.pdf,['Tai Wei Shyong']
 1639,2021_SGHC_209.pdf,['Aedit Abdullah']
 1640,2012_SGHC_210.pdf,['Tan Lee Meng']
 1641,2018_SGHC_13.pdf,['Lee Seiu Kin']
@@ -1748,13 +1748,13 @@ Unnamed: 0,casename,Coram
 1747,2010_SGHC_141.pdf,['Philip Pillai']
 1748,2005_SGCA_37.pdf,"['Yong Pung How', 'Lai Siu Chiu', 'Chao Hick Tin']"
 1749,2019_SGCA_22.pdf,"['Steven Chong', 'Judith Prakash', 'Woo Bih Li']"
-1750,2004_SGHC_147.pdf,['Ho Su Ching AR']
+1750,2004_SGHC_147.pdf,['Ho Su Ching']
 1751,2022_SGHC_94.pdf,['Kwek Mean Luck']
 1752,2011_SGHC_224.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chan Sek Keong']"
 1753,2011_SGHC_230.pdf,['Quentin Loh']
 1754,2022_SGHC_229.pdf,['Goh Yihan']
 1755,2009_SGHC_2.pdf,['Andrew Ang']
-1756,2004_SGHC_153.pdf,['Joyce Low Wei Lin AR']
+1756,2004_SGHC_153.pdf,['Joyce Low Wei Lin']
 1757,2000_SGHC_79.pdf,['Yong Pung How']
 1758,2022_SGHC_80.pdf,['Lai Siu Chiu']
 1759,2011_SGHC_10.pdf,['Choo Han Teck']
@@ -1803,7 +1803,7 @@ Unnamed: 0,casename,Coram
 1802,2002_SGHC_168.pdf,['Woo Bih Li']
 1803,2008_SGHC_245.pdf,['Tay Yong Kwang']
 1804,2016_SGCA_57.pdf,"['Andrew Phang Boon Leong', 'Judith Prakash', 'Quentin Loh', 'Sundaresh Menon', 'Chao Hick Tin']"
-1805,2009_SGHC_120.pdf,['Nathaniel Khng AR']
+1805,2009_SGHC_120.pdf,['Nathaniel Khng']
 1806,2002_SGHC_64.pdf,['Choo Han Teck']
 1807,2022_SGHC_3.pdf,['Dedar Singh Gill']
 1808,2009_SGHC_134.pdf,['Chao Hick Tin']
@@ -1819,7 +1819,7 @@ Unnamed: 0,casename,Coram
 1818,2015_SGHC_3.pdf,[]
 1819,2016_SGHC_152.pdf,['Foo Chee Hock']
 1820,2019_SGHC_82.pdf,['Aedit Abdullah']
-1821,2004_SGHC_1.pdf,['Tai Wei Shyong AR']
+1821,2004_SGHC_1.pdf,['Tai Wei Shyong']
 1822,2013_SGHC_31.pdf,['Belinda Ang Saw Ean']
 1823,2002_SGHC_58.pdf,['Yong Pung How']
 1824,2003_SGHC_231.pdf,['Judith Prakash']
@@ -1880,7 +1880,7 @@ Unnamed: 0,casename,Coram
 1879,2009_SGCA_19.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chao Hick Tin']"
 1880,2018_SGCA_70.pdf,"['Chao Hick Tin', 'Belinda Ang', 'Judith Prakash', 'Sundaresh Menon', 'Tay Yong Kwang']"
 1881,2022_SGHC_163.pdf,['Choo Han Teck']
-1882,2004_SGHC_219.pdf,['Vincent Leow AR']
+1882,2004_SGHC_219.pdf,['Vincent Leow']
 1883,2021_SGCA_53.pdf,"['Sundaresh Menon', 'Judith Prakash', 'Andrew Phang Boon Leong']"
 1884,2009_SGCA_31.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chan Sek Keong']"
 1885,2015_SGCA_24.pdf,"['Sundaresh Menon', 'Chao Hick Tin', 'Andrew Phang Boon Leong']"
@@ -1898,9 +1898,9 @@ Unnamed: 0,casename,Coram
 1897,2015_SGCA_30.pdf,"['Sundaresh Menon', 'Chan Sek Keong', 'Quentin Loh']"
 1898,2011_SGHC_146.pdf,['Choo Han Teck']
 1899,2015_SGHC_198.pdf,['Vinodh Coomaraswamy']
-1900,2010_SGHC_222.pdf,['Denise Wong AR']
+1900,2010_SGHC_222.pdf,['Denise Wong']
 1901,2005_SGHC_141.pdf,['Yong Pung How']
-1902,2011_SGHC_147.pdf,['Eunice Chua AR']
+1902,2011_SGHC_147.pdf,['Eunice Chua']
 1903,2015_SGCA_31.pdf,"['Andrew Phang Boon Leong', 'Chao Hick Tin', 'Tay Yong Kwang']"
 1904,2004_SGCA_58.pdf,"['Chao Hick Tin', 'Judith Prakash']"
 1905,2009_SGCA_24.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chan Sek Keong']"
@@ -1933,7 +1933,7 @@ Unnamed: 0,casename,Coram
 1932,2000_SGHC_238.pdf,['Woo Bih Li']
 1933,2005_SGHC_182.pdf,['Tan Lee Meng']
 1934,2017_SGHC_67.pdf,['Audrey Lim']
-1935,2011_SGHC_184.pdf,['Chan Wei Sern Paul AR']
+1935,2011_SGHC_184.pdf,['Chan Wei Sern Paul']
 1936,2011_SGHC_190.pdf,['Choo Han Teck']
 1937,2022_SGHC_189.pdf,['Vinodh Coomaraswamy']
 1938,2001_SGHC_149.pdf,['S Rajendran']
@@ -2073,7 +2073,7 @@ Unnamed: 0,casename,Coram
 2072,2013_SGCA_53.pdf,"['Sundaresh Menon', 'V K Rajah', 'Andrew Phang Boon Leong']"
 2073,2010_SGHC_183.pdf,['Chan Seng Onn']
 2074,2015_SGHC_239.pdf,['Choo Han Teck']
-2075,2004_SGHC_185.pdf,['Thian Yee Sze SAR']
+2075,2004_SGHC_185.pdf,['Thian Yee Sze ']
 2076,2022_SGHC_56.pdf,['Kwek Mean Luck']
 2077,2007_SGHC_60.pdf,['Tay Yong Kwang']
 2078,2001_SGHC_217.pdf,['Woo Bih Li']
@@ -2110,7 +2110,7 @@ Unnamed: 0,casename,Coram
 2109,2017_SGHC_140.pdf,['Aedit Abdullah']
 2110,2009_SGHC_90.pdf,['Andrew Ang']
 2111,2003_SGHC_23.pdf,['Woo Bih Li']
-2112,2010_SGHC_342.pdf,['Eunice Chua AR']
+2112,2010_SGHC_342.pdf,['Eunice Chua']
 2113,2002_SGHC_223.pdf,['Judith Prakash']
 2114,2017_SGHC_168.pdf,['Foo Chee Hock']
 2115,2008_SGHC_126.pdf,['Choo Han Teck']
@@ -2217,7 +2217,7 @@ Unnamed: 0,casename,Coram
 2216,2012_SGHC_39.pdf,['Lee Seiu Kin']
 2217,2017_SGHC_133.pdf,['Chao Hick Tin']
 2218,2021_SGHC_290.pdf,['Sundaresh Menon']
-2219,2009_SGHC_218.pdf,['Nathaniel Khng AR']
+2219,2009_SGHC_218.pdf,['Nathaniel Khng']
 2220,2003_SGHC_135.pdf,['Lai Kew Chai']
 2221,2016_SGHC_256.pdf,['Valerie Thean']
 2222,2017_SGCA_63.pdf,"['Steven Chong', 'Judith Prakash', 'Andrew Phang Boon Leong']"
@@ -2273,7 +2273,7 @@ Unnamed: 0,casename,Coram
 2272,2004_SGHC_121.pdf,['Yong Pung How']
 2273,2011_SGHC_62.pdf,['Quentin Loh']
 2274,2004_SGHC_135.pdf,['Kan Ting Chiu']
-2275,2011_SGHC_76.pdf,['Eunice Chua AR']
+2275,2011_SGHC_76.pdf,['Eunice Chua']
 2276,2011_SGHC_256.pdf,['Lai Siu Chiu']
 2277,2020_SGCA_73.pdf,"['Judith Prakash', 'Woo Bih Li', 'Quentin Loh']"
 2278,2019_SGCA_50.pdf,"['Steven Chong', 'Andrew Phang Boon Leong', 'Judith Prakash', 'Sundaresh Menon', 'Tay Yong Kwang']"
@@ -2378,7 +2378,7 @@ Unnamed: 0,casename,Coram
 2377,2006_SGHC_69.pdf,['Woo Bih Li']
 2378,2010_SGHC_286.pdf,['Woo Bih Li']
 2379,2003_SGCA_33.pdf,"['Tan Lee Meng', 'Chao Hick Tin', 'MPH Rubin']"
-2380,2004_SGHC_280.pdf,['Lee Kee Yeng AR']
+2380,2004_SGHC_280.pdf,['Lee Kee Yeng']
 2381,2014_SGHC_259.pdf,['Vinodh Coomaraswamy']
 2382,2001_SGHC_112.pdf,['Choo Han Teck']
 2383,2014_SGHC_271.pdf,['Tan Siong Thye']
@@ -2394,7 +2394,7 @@ Unnamed: 0,casename,Coram
 2393,2014_SGHC_265.pdf,['See Kee Oon']
 2394,2012_SGCA_66.pdf,"['Andrew Phang Boon Leong', 'Chao Hick Tin', 'Sundaresh Menon']"
 2395,2001_SGHC_106.pdf,['Tan Lee Meng']
-2396,2004_SGHC_257.pdf,['Yeong Zee Kin AR']
+2396,2004_SGHC_257.pdf,['Yeong Zee Kin']
 2397,2011_SGHC_134.pdf,['V K Rajah']
 2398,2015_SGCA_42.pdf,"['Sundaresh Menon', 'Steven Chong', 'Chao Hick Tin']"
 2399,2009_SGCA_57.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Woo Bih Li']"
@@ -2455,7 +2455,7 @@ Unnamed: 0,casename,Coram
 2454,2009_SGCA_56.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chao Hick Tin']"
 2455,2015_SGCA_43.pdf,"['Sundaresh Menon', 'Tay Yong Kwang', 'Andrew Phang Boon Leong']"
 2456,2011_SGHC_135.pdf,['Woo Bih Li']
-2457,2004_SGHC_256.pdf,['Gillian Koh Tan AR']
+2457,2004_SGHC_256.pdf,['Gillian Koh Tan']
 2458,2010_SGHC_250.pdf,['Philip Pillai']
 2459,2012_SGHC_3.pdf,['Tay Yong Kwang']
 2460,2023_SGHC_249.pdf,['Goh Yihan']
@@ -2503,7 +2503,7 @@ Unnamed: 0,casename,Coram
 2502,2016_SGHC_109.pdf,['Belinda Ang']
 2503,2003_SGHC_242.pdf,['Choo Han Teck']
 2504,2013_SGHC_42.pdf,['Lai Siu Chiu']
-2505,2008_SGHC_98.pdf,['Goh Yi Han AR']
+2505,2008_SGHC_98.pdf,['Goh Yi Han']
 2506,2016_SGHC_121.pdf,['George Wei']
 2507,2020_SGHC_282.pdf,['Tan Siong Thye']
 2508,2022_SGCA_47.pdf,"['Steven Chong', 'Woo Bih Li', 'Quentin Loh']"
@@ -2580,7 +2580,7 @@ Unnamed: 0,casename,Coram
 2579,2016_SGHC_90.pdf,['Choo Han Teck']
 2580,2000_SGHC_36.pdf,['Lai Siu Chiu']
 2581,2011_SGHC_257.pdf,['Judith Prakash']
-2582,2011_SGHC_77.pdf,['Seow Zhixiang AR']
+2582,2011_SGHC_77.pdf,['Seow Zhixiang']
 2583,2004_SGHC_134.pdf,['MPH Rubin']
 2584,2015_SGHC_288.pdf,['Choo Han Teck']
 2585,2008_SGCA_38.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chan Sek Keong']"
@@ -2800,7 +2800,7 @@ Unnamed: 0,casename,Coram
 2799,2022_SGHC_258.pdf,['Goh Yihan']
 2800,2004_SGHC_122.pdf,['Yong Pung How']
 2801,2001_SGHC_298.pdf,['Choo Han Teck']
-2802,2011_SGHC_61.pdf,['Yeong Zee Kin SAR']
+2802,2011_SGHC_61.pdf,['Yeong Zee Kin ']
 2803,2019_SGCA_47.pdf,"['Sundaresh Menon', 'Judith Prakash', 'Andrew Phang Boon Leong']"
 2804,2010_SGHC_124.pdf,['Kan Ting Chiu']
 2805,2005_SGCA_52.pdf,"['Tan Lee Meng', 'Yong Pung How', 'Chao Hick Tin']"
@@ -2811,10 +2811,10 @@ Unnamed: 0,casename,Coram
 2810,2003_SGCA_8.pdf,"['Tan Lee Meng', 'Chao Hick Tin']"
 2811,2014_SGCA_13.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chao Hick Tin']"
 2812,2011_SGHC_269.pdf,['Lai Siu Chiu']
-2813,2003_SGHC_308.pdf,['Ching Sann AR']
+2813,2003_SGHC_308.pdf,['Ching Sann']
 2814,2016_SGHC_86.pdf,['Hoo Sheau Peng']
 2815,2022_SGHC_270.pdf,['S Mohan']
-2816,2011_SGHC_49.pdf,['Joel Chen AR']
+2816,2011_SGHC_49.pdf,['Joel Chen']
 2817,2000_SGHC_20.pdf,['Tay Yong Kwang']
 2818,2000_SGHC_34.pdf,['G P Selvam']
 2819,2016_SGHC_92.pdf,['Choo Han Teck']
@@ -2827,7 +2827,7 @@ Unnamed: 0,casename,Coram
 2826,2018_SGHC_212.pdf,['Woo Bih Li']
 2827,2021_SGHC_126.pdf,['Choo Han Teck']
 2828,2017_SGHC_285.pdf,['Vinodh Coomaraswamy']
-2829,2003_SGHC_283.pdf,['Tai Wei Shyong AR']
+2829,2003_SGHC_283.pdf,['Tai Wei Shyong']
 2830,2006_SGHC_139.pdf,['Belinda Ang Saw Ean']
 2831,2013_SGHC_83.pdf,['Belinda Ang Saw Ean']
 2832,2020_SGHC_13.pdf,['Chan Seng Onn']
@@ -2874,7 +2874,7 @@ Unnamed: 0,casename,Coram
 2873,2016_SGHC_123.pdf,['Choo Han Teck']
 2874,2002_SGHC_29.pdf,['Yong Pung How']
 2875,2013_SGHC_40.pdf,['Choo Han Teck']
-2876,2003_SGHC_240.pdf,['Joyce Low Wei Lin AR']
+2876,2003_SGHC_240.pdf,['Joyce Low Wei Lin']
 2877,2013_SGHC_54.pdf,['Vinodh Coomaraswamy']
 2878,2009_SGHC_179.pdf,['Judith Prakash']
 2879,2003_SGHC_254.pdf,['Belinda Ang Saw Ean']
@@ -2944,7 +2944,7 @@ Unnamed: 0,casename,Coram
 2943,2018_SGCA_15.pdf,"['Andrew Phang Boon Leong', 'Judith Prakash', 'Hoo Sheau Peng']"
 2944,2015_SGCA_69.pdf,"['Sundaresh Menon', 'Steven Chong', 'Andrew Phang Boon Leong']"
 2945,2022_SGHC_106.pdf,['Kwek Mean Luck']
-2946,2010_SGHC_33.pdf,['Peh Aik Hin AR']
+2946,2010_SGHC_33.pdf,['Peh Aik Hin']
 2947,2005_SGHC_119.pdf,['Choo Han Teck']
 2948,2023_SGHC_263.pdf,['Dedar Singh Gill']
 2949,2006_SGHC_95.pdf,['Choo Han Teck']
@@ -2953,7 +2953,7 @@ Unnamed: 0,casename,Coram
 2952,2010_SGHC_27.pdf,['Choo Han Teck']
 2953,2004_SGCA_14.pdf,"['Lai Siu Chiu', 'Chao Hick Tin']"
 2954,2022_SGHC_112.pdf,"['Sundaresh Menon', 'Steven Chong', 'Andrew Phang Boon Leong']"
-2955,2004_SGHC_268.pdf,['Vincent Leow AR']
+2955,2004_SGHC_268.pdf,['Vincent Leow']
 2956,2021_SGCA_22.pdf,"['Steven Chong', 'Andrew Phang Boon Leong', 'Quentin Loh']"
 2957,2010_SGHC_26.pdf,['Tay Yong Kwang']
 2958,2006_SGHC_80.pdf,['Woo Bih Li']
@@ -2977,7 +2977,7 @@ Unnamed: 0,casename,Coram
 2976,2003_SGHC_2.pdf,['Choo Han Teck']
 2977,2004_SGCA_29.pdf,"['Yong Pung How', 'Chao Hick Tin', 'Woo Bih Li']"
 2978,2009_SGCA_55.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chan Sek Keong']"
-2979,2011_SGHC_136.pdf,['Chew Yi-Ling Elaine AR']
+2979,2011_SGHC_136.pdf,['Chew Yi-Ling Elaine']
 2980,2015_SGCA_40.pdf,"['Sundaresh Menon', 'Chao Hick Tin', 'Andrew Phang Boon Leong']"
 2981,2004_SGHC_255.pdf,['Choo Han Teck']
 2982,2004_SGHC_241.pdf,['Judith Prakash']
@@ -3098,8 +3098,8 @@ Unnamed: 0,casename,Coram
 3097,2011_SGHC_48.pdf,['Judith Prakash']
 3098,2022_SGHC_271.pdf,['Goh Yihan']
 3099,2016_SGHC_87.pdf,"['Andrew Phang Boon Leong', 'Chao Hick Tin', 'Judith Prakash']"
-3100,2003_SGHC_309.pdf,['Ho Su Ching AR']
-3101,2011_SGHC_268.pdf,['Yeong Zee Kin SAR']
+3100,2003_SGHC_309.pdf,['Ho Su Ching']
+3101,2011_SGHC_268.pdf,['Yeong Zee Kin ']
 3102,2011_SGHC_60.pdf,['Kan Ting Chiu']
 3103,2001_SGHC_299.pdf,['Tay Yong Kwang']
 3104,2004_SGHC_123.pdf,['Woo Bih Li']
@@ -3108,7 +3108,7 @@ Unnamed: 0,casename,Coram
 3107,2017_SGHC_327.pdf,['Belinda Ang']
 3108,2020_SGCA_65.pdf,"['Andrew Phang Boon Leong', 'Chao Hick Tin', 'Judith Prakash']"
 3109,2005_SGCA_53.pdf,"['V K Rajah', 'Yong Pung How', 'Chao Hick Tin']"
-3110,2010_SGHC_125.pdf,['Yeong Zee Kin SAR']
+3110,2010_SGHC_125.pdf,['Yeong Zee Kin ']
 3111,2019_SGCA_46.pdf,"['Tay Yong Kwang', 'Judith Prakash', 'Quentin Loh']"
 3112,2005_SGCA_47.pdf,"['Yong Pung How', 'Chao Hick Tin', 'Judith Prakash']"
 3113,2010_SGHC_131.pdf,['Chan Seng Onn']
@@ -3152,7 +3152,7 @@ Unnamed: 0,casename,Coram
 3151,2006_SGCA_34.pdf,"['Andrew Phang Boon Leong', 'Tan Lee Meng', 'Chan Sek Keong']"
 3152,2016_SGHC_268.pdf,['Hoo Sheau Peng']
 3153,2021_SGHC_97.pdf,['See Kee Oon']
-3154,2008_SGHC_143.pdf,['Teo Guan Siew AR']
+3154,2008_SGHC_143.pdf,['Teo Guan Siew']
 3155,2023_SGHC_316.pdf,['Aedit Abdullah']
 3156,2003_SGHC_46.pdf,['Choo Han Teck']
 3157,2002_SGHC_246.pdf,['Choo Han Teck']
@@ -3171,11 +3171,11 @@ Unnamed: 0,casename,Coram
 3170,2018_SGHC_88.pdf,['Valerie Thean']
 3171,2003_SGHC_52.pdf,['Yong Pung How']
 3172,2002_SGHC_252.pdf,['MPH Rubin']
-3173,2010_SGHC_333.pdf,['Leo Zhen Wei Lionel AR']
+3173,2010_SGHC_333.pdf,['Leo Zhen Wei Lionel']
 3174,2007_SGHC_103.pdf,['Choo Han Teck']
 3175,2021_SGHC_40.pdf,['Lee Seiu Kin']
 3176,2008_SGHC_194.pdf,['Choo Han Teck']
-3177,2004_SGHC_76.pdf,['Joyce Low Wei Lin AR']
+3177,2004_SGHC_76.pdf,['Joyce Low Wei Lin']
 3178,2018_SGHC_63.pdf,['Choo Han Teck']
 3179,2021_SGHC_279.pdf,['See Kee Oon']
 3180,2000_SGCA_7.pdf,"['Tan Lee Meng', 'Chao Hick Tin']"
@@ -3187,7 +3187,7 @@ Unnamed: 0,casename,Coram
 3186,2013_SGHC_111.pdf,['Lee Seiu Kin']
 3187,2001_SGCA_38.pdf,"['L P Thean', 'Yong Pung How', 'Chao Hick Tin']"
 3188,2010_SGCA_51.pdf,"['Andrew Phang Boon Leong', 'Chao Hick Tin']"
-3189,2004_SGHC_62.pdf,['Thian Yee Sze SAR']
+3189,2004_SGHC_62.pdf,['Thian Yee Sze ']
 3190,2018_SGHC_77.pdf,['Choo Han Teck']
 3191,2018_SGHC_159.pdf,['Chan Seng Onn']
 3192,2007_SGHC_117.pdf,['Tan Lee Meng']
@@ -3217,7 +3217,7 @@ Unnamed: 0,casename,Coram
 3216,2008_SGHC_184.pdf,['Judith Prakash']
 3217,2007_SGHC_113.pdf,['Woo Bih Li']
 3218,2021_SGHC_269.pdf,['Vincent Hoong']
-3219,2004_SGHC_66.pdf,['Amy Tung Chew Ming AR']
+3219,2004_SGHC_66.pdf,['Amy Tung Chew Ming']
 3220,2018_SGHC_73.pdf,['Andrew Ang']
 3221,2019_SGHC_238.pdf,['Tan Siong Thye']
 3222,2011_SGCA_1.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chan Sek Keong']"
@@ -3230,7 +3230,7 @@ Unnamed: 0,casename,Coram
 3229,2004_SGHC_72.pdf,['Yong Pung How']
 3230,2018_SGHC_67.pdf,['Lee Seiu Kin']
 3232,2008_SGHC_190.pdf,['Lai Siu Chiu']
-3233,2007_SGHC_107.pdf,['Lim Jian Yi AR']
+3233,2007_SGHC_107.pdf,['Lim Jian Yi']
 3234,2021_SGHC_255.pdf,['Audrey Lim']
 3235,2018_SGHC_161.pdf,['Hoo Sheau Peng']
 3236,2009_SGHC_26.pdf,['Lai Siu Chiu']
@@ -3276,7 +3276,7 @@ Unnamed: 0,casename,Coram
 3276,2016_SGHC_250.pdf,"['Andrew Phang Boon Leong', 'Chao Hick Tin', 'Judith Prakash']"
 3277,2006_SGCA_18.pdf,"['Andrew Phang Boon Leong', 'Tan Lee Meng', 'Chan Sek Keong']"
 3278,2016_SGHC_244.pdf,['Kannan Ramesh']
-3279,2003_SGHC_127.pdf,['Toh Han Li SAR']
+3279,2003_SGHC_127.pdf,['Toh Han Li ']
 3280,2017_SGHC_121.pdf,['Kannan Ramesh']
 3281,2018_SGHC_98.pdf,['Choo Han Teck']
 3282,2021_SGHC_282.pdf,['Lee Seiu Kin']
@@ -3385,7 +3385,7 @@ Unnamed: 0,casename,Coram
 3385,2013_SGHC_79.pdf,['Tay Yong Kwang']
 3386,2022_SGHC_301.pdf,"['Sundaresh Menon', 'Steven Chong', 'Vincent Hoong']"
 3387,2002_SGHC_10.pdf,['Choo Han Teck']
-3388,2003_SGHC_279.pdf,['Ho Su Ching AR']
+3388,2003_SGHC_279.pdf,['Ho Su Ching']
 3389,2008_SGHC_231.pdf,['Lai Siu Chiu']
 3390,2016_SGCA_23.pdf,"['Andrew Phang Boon Leong', 'Tay Yong Kwang', 'Chao Hick Tin']"
 3391,2016_SGCA_37.pdf,"['Andrew Phang Boon Leong', 'Chan Seng Onn', 'Lee Seiu Kin', 'Woo Bih Li', 'Chao Hick Tin']"
@@ -3447,7 +3447,7 @@ Unnamed: 0,casename,Coram
 3447,2022_SGHC_117.pdf,['Aedit Abdullah']
 3448,2021_SGCA_27.pdf,"['Steven Chong', 'Andrew Phang Boon Leong', 'Judith Prakash', 'Sundaresh Menon', 'Tay Yong Kwang']"
 3449,2023_SGHC_272.pdf,['Hoo Sheau Peng']
-3450,2006_SGHC_84.pdf,['Yeong Zee Kin AR']
+3450,2006_SGHC_84.pdf,['Yeong Zee Kin']
 3451,2010_SGHC_22.pdf,['Belinda Ang Saw Ean']
 3452,2005_SGHC_108.pdf,['Woo Bih Li']
 3453,2010_SGHC_243.pdf,['Philip Pillai']
@@ -3548,14 +3548,14 @@ Unnamed: 0,casename,Coram
 3548,2014_SGCA_5.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chao Hick Tin']"
 3549,2016_SGCA_36.pdf,"['Andrew Phang Boon Leong', 'Chan Seng Onn', 'Lee Seiu Kin', 'Woo Bih Li', 'Chao Hick Tin']"
 3550,2022_SGHC_314.pdf,['See Kee Oon']
-3551,2009_SGHC_141.pdf,['Teo Guan Siew AR']
+3551,2009_SGHC_141.pdf,['Teo Guan Siew']
 3552,2019_SGHC_198.pdf,['Chua Lee Ming']
-3553,2003_SGHC_278.pdf,['Tai Wei Shyong AR']
+3553,2003_SGHC_278.pdf,['Tai Wei Shyong']
 3554,2013_SGHC_78.pdf,['Judith Prakash']
 3555,2022_SGHC_300.pdf,['Vincent Hoong']
 3556,2009_SGHC_155.pdf,['Choo Han Teck']
 3557,2016_SGCA_22.pdf,"['Steven Chong', 'Tay Yong Kwang', 'Andrew Phang Boon Leong']"
-3558,2008_SGHC_230.pdf,['Leo Zhen Wei Lionel AR']
+3558,2008_SGHC_230.pdf,['Leo Zhen Wei Lionel']
 3559,2017_SGHC_295.pdf,['Belinda Ang']
 3560,2018_SGHC_202.pdf,['Sundaresh Menon']
 3561,2021_SGHC_136.pdf,['Aedit Abdullah']
@@ -3612,7 +3612,7 @@ Unnamed: 0,casename,Coram
 3612,2001_SGHC_288.pdf,['Lai Siu Chiu']
 3613,2019_SGCA_57.pdf,"['Belinda Ang', 'Tay Yong Kwang', 'Quentin Loh']"
 3614,2005_SGCA_42.pdf,"['Chao Hick Tin', 'Judith Prakash']"
-3615,2010_SGHC_134.pdf,['Peh Aik Hin AR']
+3615,2010_SGHC_134.pdf,['Peh Aik Hin']
 3616,2020_SGCA_74.pdf,"['Belinda Ang', 'Tay Yong Kwang', 'Judith Prakash']"
 3617,2008_SGCA_16.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chan Sek Keong']"
 3618,2023_SGHC_105.pdf,['Teh Hwee Hwee']
@@ -3650,7 +3650,7 @@ Unnamed: 0,casename,Coram
 3650,2001_SGHC_277.pdf,['Judith Prakash']
 3651,2015_SGHC_271.pdf,['George Wei']
 3652,2000_SGHC_112.pdf,['Kan Ting Chiu']
-3653,2003_SGHC_126.pdf,['Phang Hsiao Chung AR']
+3653,2003_SGHC_126.pdf,['Phang Hsiao Chung']
 3654,2016_SGHC_245.pdf,['See Kee Oon']
 3655,2006_SGCA_19.pdf,"['Andrew Phang Boon Leong', 'Chan Sek Keong']"
 3656,2017_SGCA_70.pdf,"['Sundaresh Menon', 'Steven Chong', 'Andrew Phang Boon Leong']"
@@ -3674,7 +3674,7 @@ Unnamed: 0,casename,Coram
 3674,2008_SGHC_152.pdf,['Choo Han Teck']
 3675,2023_SGHC_307.pdf,['Lee Seiu Kin']
 3676,2021_SGHC_86.pdf,['Aedit Abdullah']
-3677,2012_SGHC_16.pdf,['Chan Wei Sern Paul AR']
+3677,2012_SGHC_16.pdf,['Chan Wei Sern Paul']
 3678,2008_SGHC_146.pdf,['V K Rajah']
 3679,2023_SGHC_313.pdf,['Mavis Chionh']
 3680,2021_SGHC_92.pdf,['Chan Seng Onn']
@@ -3819,7 +3819,7 @@ Unnamed: 0,casename,Coram
 3819,2007_SGHC_16.pdf,['Choo Han Teck']
 3820,2022_SGHC_20.pdf,['S Mohan']
 3821,2001_SGHC_249.pdf,['Lai Siu Chiu']
-3822,2004_SGHC_118.pdf,['Vincent Leow AR']
+3822,2004_SGHC_118.pdf,['Vincent Leow']
 3823,2000_SGHC_32.pdf,['Goh Joon Seng']
 3824,2016_SGHC_94.pdf,['Sundaresh Menon']
 3825,2022_SGHC_262.pdf,['See Kee Oon']
@@ -3834,12 +3834,12 @@ Unnamed: 0,casename,Coram
 3834,2016_SGHC_80.pdf,['Lee Seiu Kin']
 3835,2022_SGHC_276.pdf,['Tan Siong Thye']
 3836,2000_SGHC_26.pdf,['Lim Teong Qwee']
-3837,2011_SGHC_247.pdf,['Eunice Chua AR']
+3837,2011_SGHC_247.pdf,['Eunice Chua']
 3838,2004_SGHC_124.pdf,['Belinda Ang Saw Ean']
 3839,2011_SGHC_67.pdf,['Lee Seiu Kin']
 3840,2005_SGCA_54.pdf,"['Yong Pung How', 'Chao Hick Tin', 'Choo Han Teck']"
 3841,2015_SGHC_298.pdf,['Sundaresh Menon']
-3842,2010_SGHC_122.pdf,['Teo Guan Siew AR']
+3842,2010_SGHC_122.pdf,['Teo Guan Siew']
 3843,2008_SGCA_28.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chao Hick Tin']"
 3844,2019_SGCA_41.pdf,"['Sundaresh Menon', 'Steven Chong', 'Quentin Loh']"
 3845,2020_SGCA_62.pdf,"['Sundaresh Menon', 'Chao Hick Tin', 'Judith Prakash']"
@@ -3850,10 +3850,10 @@ Unnamed: 0,casename,Coram
 3850,2019_SGCA_55.pdf,"['Tay Yong Kwang', 'Quentin Loh']"
 3851,2014_SGCA_29.pdf,"['Sundaresh Menon', 'V K Rajah', 'Andrew Phang Boon Leong']"
 3852,2004_SGHC_130.pdf,['Choo Han Teck']
-3853,2011_SGHC_73.pdf,['Shaun Leong Li Shiong AR']
+3853,2011_SGHC_73.pdf,['Shaun Leong Li Shiong']
 3854,2011_SGHC_253.pdf,['Judith Prakash']
 3855,2006_SGHC_117.pdf,['V K Rajah']
-3856,2009_SGHC_180.pdf,['Francis Ng Yong Kiat AR']
+3856,2009_SGHC_180.pdf,['Francis Ng Yong Kiat']
 3857,2008_SGHC_77.pdf,['Lai Siu Chiu']
 3858,2001_SGHC_315.pdf,['Tan Lee Meng']
 3859,2013_SGHC_274.pdf,['Vinodh Coomaraswamy']
@@ -3875,7 +3875,7 @@ Unnamed: 0,casename,Coram
 3875,2020_SGHC_279.pdf,['Andrew Ang']
 3876,2006_SGHC_103.pdf,['Belinda Ang Saw Ean']
 3877,2020_SGHC_29.pdf,['Choo Han Teck']
-3878,2009_SGHC_194.pdf,['Yeong Zee Kin SAR']
+3878,2009_SGHC_194.pdf,['Yeong Zee Kin ']
 3879,2001_SGHC_329.pdf,['Yong Pung How']
 3880,2005_SGHC_37.pdf,['Choo Han Teck']
 3881,2013_SGHC_248.pdf,['Belinda Ang Saw Ean']
@@ -3971,7 +3971,7 @@ Unnamed: 0,casename,Coram
 3971,2003_SGHC_5.pdf,['Yong Pung How']
 3972,2005_SGHC_137.pdf,['Choo Han Teck']
 3973,2010_SGHC_254.pdf,['Chan Seng Onn']
-3974,2012_SGHC_7.pdf,['Tan Sze Yao AR']
+3974,2012_SGHC_7.pdf,['Tan Sze Yao']
 3975,2004_SGHC_252.pdf,"['Yong Pung How', 'Chao Hick Tin', 'Tay Yong Kwang']"
 3976,2021_SGCA_18.pdf,['Woo Bih Li']
 3977,2009_SGCA_52.pdf,"['V K Rajah', 'Chao Hick Tin']"
@@ -3995,7 +3995,7 @@ Unnamed: 0,casename,Coram
 3995,2023_SGHC_98.pdf,['Aedit Abdullah']
 3996,2001_SGHC_61.pdf,['Kan Ting Chiu']
 3997,2002_SGHC_320.pdf,['Judith Prakash']
-3998,2010_SGHC_241.pdf,['Shaun Leong Li Shiong AR']
+3998,2010_SGHC_241.pdf,['Shaun Leong Li Shiong']
 3999,2023_SGHC_258.pdf,['Goh Yihan']
 4000,2012_SGHC_6.pdf,['Choo Han Teck']
 4001,2010_SGHC_255.pdf,['Woo Bih Li']
@@ -4019,7 +4019,7 @@ Unnamed: 0,casename,Coram
 4019,2001_SGHC_49.pdf,['Yong Pung How']
 4020,2006_SGHC_86.pdf,['Choo Han Teck']
 4021,2002_SGHC_308.pdf,['S Rajendran']
-4022,2010_SGHC_269.pdf,['Chan Wei Sern Paul AR']
+4022,2010_SGHC_269.pdf,['Chan Wei Sern Paul']
 4023,2023_SGHC_270.pdf,['Choo Han Teck']
 4024,2021_SGCA_25.pdf,"['Steven Chong', 'Judith Prakash', 'Belinda Ang']"
 4025,2022_SGHC_115.pdf,['Choo Han Teck']
@@ -4068,7 +4068,7 @@ Unnamed: 0,casename,Coram
 4068,2008_SGHC_233.pdf,['Woo Bih Li']
 4069,2016_SGHC_118.pdf,['See Kee Oon']
 4070,2002_SGHC_12.pdf,['Yong Pung How']
-4071,2009_SGHC_156.pdf,['Francis Ng Yong Kiat AR']
+4071,2009_SGHC_156.pdf,['Francis Ng Yong Kiat']
 4072,2022_SGHC_303.pdf,['Mavis Chionh']
 4073,2009_SGHC_142.pdf,['Chan Seng Onn']
 4074,2022_SGHC_317.pdf,['Valerie Thean']
@@ -4185,7 +4185,7 @@ Unnamed: 0,casename,Coram
 4185,2015_SGHC_266.pdf,['Chua Lee Ming']
 4186,2016_SGHC_252.pdf,['Aedit Abdullah']
 4187,2017_SGCA_67.pdf,"['Steven Chong', 'Tay Yong Kwang', 'Andrew Phang Boon Leong']"
-4188,2003_SGHC_131.pdf,['Phang Hsiao Chung AR']
+4188,2003_SGHC_131.pdf,['Phang Hsiao Chung']
 4189,2023_SGCA_38.pdf,"['Belinda Ang', 'Kannan Ramesh', 'Judith Prakash']"
 4190,2021_SGHC_294.pdf,['Hoo Sheau Peng']
 4191,2017_SGHC_137.pdf,['Hoo Sheau Peng']
@@ -4245,7 +4245,7 @@ Unnamed: 0,casename,Coram
 4245,2018_SGHC_71.pdf,['Foo Chee Hock']
 4246,2009_SGHC_18.pdf,['Choo Han Teck']
 4247,2004_SGHC_64.pdf,['Lai Siu Chiu']
-4248,2007_SGHC_111.pdf,['Lee Ti-Ting AR']
+4248,2007_SGHC_111.pdf,['Lee Ti-Ting']
 4249,2008_SGHC_186.pdf,['Tay Yong Kwang']
 4250,2021_SGHC_52.pdf,['Chan Seng Onn']
 4251,2007_SGHC_105.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chan Sek Keong']"
@@ -4323,10 +4323,10 @@ Unnamed: 0,casename,Coram
 4323,2023_SGHC_335.pdf,['Goh Yihan']
 4324,2012_SGHC_24.pdf,['Choo Han Teck']
 4325,2018_SGHC_97.pdf,['Chua Lee Ming']
-4326,2004_SGHC_82.pdf,['Ho Su Ching AR']
+4326,2004_SGHC_82.pdf,['Ho Su Ching']
 4327,2023_SGCA_21.pdf,"['Andrew Phang Boon Leong', 'Judith Prakash', 'Woo Bih Li', 'Sundaresh Menon', 'Tay Yong Kwang']"
 4328,2009_SGHC_205.pdf,['Chan Seng Onn']
-4329,2003_SGHC_128.pdf,['Toh Han Li SAR']
+4329,2003_SGHC_128.pdf,['Toh Han Li ']
 4330,2006_SGCA_17.pdf,"['Andrew Phang Boon Leong', 'Tan Lee Meng', 'V K Rajah']"
 4331,2013_SGCA_15.pdf,"['Andrew Phang Boon Leong', 'Chao Hick Tin', 'Sundaresh Menon  (as he']"
 4332,2020_SGCA_85.pdf,"['Sundaresh Menon', 'Tay Yong Kwang', 'Woo Bih Li']"
@@ -4450,7 +4450,7 @@ Unnamed: 0,casename,Coram
 4450,2008_SGHC_202.pdf,['Choo Han Teck']
 4451,2016_SGCA_10.pdf,"['Sundaresh Menon', 'Andrew Phang Boon Leong']"
 4452,2002_SGHC_23.pdf,['Yong Pung How']
-4453,2009_SGHC_167.pdf,['Nathaniel Khng AR']
+4453,2009_SGHC_167.pdf,['Nathaniel Khng']
 4454,2016_SGHC_129.pdf,['Choo Han Teck']
 4455,2014_SGHC_85.pdf,['Tay Yong Kwang']
 4456,2008_SGHC_90.pdf,['Chan Sek Keong']
@@ -4493,13 +4493,13 @@ Unnamed: 0,casename,Coram
 4493,2023_SGHC_269.pdf,['Chua Lee Ming']
 4494,2002_SGHC_311.pdf,['MPH Rubin']
 4495,2010_SGHC_270.pdf,['Quentin Loh']
-4496,2010_SGHC_39.pdf,['Kathryn Thong AR']
+4496,2010_SGHC_39.pdf,['Kathryn Thong']
 4497,2001_SGHC_50.pdf,['Yong Pung How']
 4498,2005_SGHC_113.pdf,['Lai Kew Chai']
 4499,2001_SGHC_44.pdf,['Woo Bih Li']
 4500,2005_SGHC_107.pdf,['Yong Pung How']
 4501,2002_SGHC_305.pdf,['Woo Bih Li']
-4502,2010_SGHC_264.pdf,['Tan Sze Yao AR']
+4502,2010_SGHC_264.pdf,['Tan Sze Yao']
 4503,2004_SGHC_262.pdf,['Lai Siu Chiu']
 4504,2021_SGCA_28.pdf,"['Sundaresh Menon', 'Tay Yong Kwang', 'Quentin Loh']"
 4505,2011_SGHC_101.pdf,['Tay Yong Kwang']
@@ -4588,7 +4588,7 @@ Unnamed: 0,casename,Coram
 4588,2001_SGHC_92.pdf,['Choo Han Teck']
 4589,2009_SGHC_172.pdf,['Lai Siu Chiu']
 4590,2002_SGHC_36.pdf,"['Lai Kew Chai', 'Chao Hick Tin', 'Yong Pung How']"
-4591,2008_SGHC_85.pdf,['Chi Qiyuan Douglas AR']
+4591,2008_SGHC_85.pdf,['Chi Qiyuan Douglas']
 4592,2014_SGHC_90.pdf,['Chao Hick Tin']
 4593,2013_SGHC_286.pdf,[]
 4594,2008_SGHC_217.pdf,['Tan Lee Meng']
@@ -4614,7 +4614,7 @@ Unnamed: 0,casename,Coram
 4614,2002_SGHC_112.pdf,['Tay Yong Kwang']
 4615,2017_SGHC_271.pdf,['Chua Lee Ming']
 4616,2007_SGCA_44.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chan Sek Keong']"
-4617,2003_SGHC_277.pdf,['Ching Sann AR']
+4617,2003_SGHC_277.pdf,['Ching Sann']
 4618,2013_SGHC_77.pdf,['Chan Seng Onn']
 4619,2016_SGHC_114.pdf,['Edmund Leow']
 4620,2019_SGHC_183.pdf,['Choo Han Teck']
@@ -4662,7 +4662,7 @@ Unnamed: 0,casename,Coram
 4662,2009_SGHC_199.pdf,['Choo Han Teck']
 4663,2022_SGHC_253.pdf,['Goh Yihan']
 4664,2001_SGHC_293.pdf,['Woo Bih Li']
-4665,2004_SGHC_129.pdf,['Vincent Leow AR']
+4665,2004_SGHC_129.pdf,['Vincent Leow']
 4666,2005_SGCA_59.pdf,"['Yong Pung How', 'Chao Hick Tin', 'Tay Yong Kwang']"
 4667,2008_SGCA_25.pdf,"['V K Rajah', 'Chao Hick Tin', 'Chan Sek Keong']"
 4668,2015_SGHC_295.pdf,['Steven Chong']
@@ -4720,7 +4720,7 @@ Unnamed: 0,casename,Coram
 4720,2011_SGHC_81.pdf,['Steven Chong']
 4721,2022_SGHC_11.pdf,['Tan Siong Thye']
 4722,2007_SGHC_27.pdf,['Judith Prakash']
-4723,2004_SGHC_83.pdf,['Amy Tung Chew Ming AR']
+4723,2004_SGHC_83.pdf,['Amy Tung Chew Ming']
 4724,2018_SGHC_96.pdf,['Choo Han Teck']
 4725,2012_SGHC_25.pdf,['Steven Chong']
 4726,2023_SGHC_334.pdf,['Kristy Tan']
@@ -4749,7 +4749,7 @@ Unnamed: 0,casename,Coram
 4749,2002_SGHC_270.pdf,['Woo Bih Li']
 4750,2010_SGHC_311.pdf,['Kan Ting Chiu']
 4751,2018_SGHC_184.pdf,['Andrew Ang']
-4753,2003_SGHC_115.pdf,['Tai Wei Shyong AR']
+4753,2003_SGHC_115.pdf,['Tai Wei Shyong']
 4754,2009_SGHC_238.pdf,['Tan Lee Meng']
 4755,2017_SGCA_43.pdf,"['Andrew Phang Boon Leong', 'Tay Yong Kwang', 'Judith Prakash']"
 4756,2016_SGHC_276.pdf,['See Kee Oon']
@@ -4780,7 +4780,7 @@ Unnamed: 0,casename,Coram
 4781,2015_SGHC_15.pdf,['Edmund Leow']
 4782,2021_SGHC_273.pdf,['Sundaresh Menon']
 4783,2018_SGHC_147.pdf,['Chua Lee Ming']
-4784,2007_SGHC_109.pdf,['Dorcas Quek AR']
+4784,2007_SGHC_109.pdf,['Dorcas Quek']
 4785,2019_SGHC_222.pdf,['Valerie Thean']
 4786,2020_SGHC_116.pdf,['Dedar Singh Gill']
 4787,2001_SGCA_26.pdf,"['L P Thean', 'Yong Pung How', 'Chao Hick Tin']"
@@ -4821,7 +4821,7 @@ Unnamed: 0,casename,Coram
 4822,2021_SGHC_259.pdf,['Aedit Abdullah']
 4823,2018_SGHC_43.pdf,['Chan Seng Onn']
 4824,2012_SGHC_240.pdf,['Tan Lee Meng']
-4825,2004_SGHC_56.pdf,['Ho Su Ching AR']
+4825,2004_SGHC_56.pdf,['Ho Su Ching']
 4826,2013_SGHC_125.pdf,['Choo Han Teck']
 4827,2019_SGHC_208.pdf,['Valerie Thean']
 4828,2006_SGCA_28.pdf,"['Andrew Phang Boon Leong', 'Judith Prakash', 'Chan Sek Keong']"
@@ -4961,7 +4961,7 @@ Unnamed: 0,casename,Coram
 4962,2012_SGHC_136.pdf,['Lai Siu Chiu']
 4963,2002_SGHC_104.pdf,['Lee Seiu Kin']
 4964,2022_SGCA_64.pdf,"['Sundaresh Menon', 'Tay Yong Kwang', 'Andrew Phang Boon Leong']"
-4965,2008_SGHC_229.pdf,['Nathaniel Khng AR']
+4965,2008_SGHC_229.pdf,['Nathaniel Khng']
 4966,2007_SGCA_52.pdf,"['Andrew Phang Boon Leong', 'V K Rajah']"
 4967,2014_SGCA_8.pdf,"['Sundaresh Menon', 'V K Rajah', 'Andrew Phang Boon Leong']"
 4968,2017_SGHC_267.pdf,['Kannan Ramesh']
@@ -5012,7 +5012,7 @@ Unnamed: 0,casename,Coram
 5013,2023_SGHC_41.pdf,['Vincent Hoong']
 5014,2006_SGHC_77.pdf,['Kan Ting Chiu']
 5015,2015_SGHC_122.pdf,['Chan Seng Onn']
-5016,2010_SGHC_298.pdf,['Then Ling AR']
+5016,2010_SGHC_298.pdf,['Then Ling']
 5017,2023_SGHC_281.pdf,['S Mohan']
 5018,2006_SGHC_63.pdf,['Andrew Phang Boon Leong']
 5019,2015_SGHC_136.pdf,['Lee Seiu Kin']
@@ -5030,8 +5030,8 @@ Unnamed: 0,casename,Coram
 5031,2005_SGHC_104.pdf,['Woo Bih Li']
 5032,2002_SGHC_306.pdf,['Yong Pung How']
 5033,2006_SGHC_88.pdf,['Lai Siu Chiu']
-5034,2010_SGHC_267.pdf,['Shaun Leong Li Shiong AR']
-5035,2002_SGHC_312.pdf,['Thian Yee Sze AR']
+5034,2010_SGHC_267.pdf,['Shaun Leong Li Shiong']
+5035,2002_SGHC_312.pdf,['Thian Yee Sze']
 5036,2010_SGHC_273.pdf,['Lee Seiu Kin']
 5037,2001_SGHC_53.pdf,['Choo Han Teck']
 5038,2005_SGHC_110.pdf,['Choo Han Teck']
@@ -5081,7 +5081,7 @@ Unnamed: 0,casename,Coram
 5082,2001_SGHC_52.pdf,['Lai Siu Chiu']
 5083,2010_SGHC_272.pdf,['Judith Prakash']
 5084,2004_SGHC_274.pdf,['Lai Kew Chai']
-5085,2011_SGHC_117.pdf,['Leo Zhen Wei Lionel AR']
+5085,2011_SGHC_117.pdf,['Leo Zhen Wei Lionel']
 5086,2015_SGCA_61.pdf,"['Andrew Phang Boon Leong', 'Chao Hick Tin', 'Tay Yong Kwang']"
 5087,2009_SGCA_60.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chan Sek Keong']"
 5088,2011_SGHC_103.pdf,['Andrew Ang']
@@ -5119,7 +5119,7 @@ Unnamed: 0,casename,Coram
 5120,2003_SGCA_10.pdf,"['Yong Pung How', 'Chao Hick Tin', 'Judith Prakash']"
 5121,2001_SGHC_85.pdf,['Choo Han Teck']
 5122,2017_SGHC_23.pdf,['Lee Seiu Kin']
-5123,2008_SGHC_92.pdf,['Chew Chin Yee AR']
+5123,2008_SGHC_92.pdf,['Chew Chin Yee']
 5124,2014_SGHC_87.pdf,['Tan Siong Thye']
 5125,2003_SGHC_248.pdf,['Yong Pung How']
 5126,2013_SGHC_48.pdf,['Chan Seng Onn']
@@ -5300,13 +5300,13 @@ Unnamed: 0,casename,Coram
 5301,2003_SGHC_98.pdf,['Lai Siu Chiu']
 5302,2019_SGHC_209.pdf,['Chan Seng Onn']
 5303,2013_SGHC_124.pdf,['Andrew Ang']
-5304,2006_SGHC_247.pdf,['Ang Ching Pin AR']
+5304,2006_SGHC_247.pdf,['Ang Ching Pin']
 5305,2001_SGCA_19.pdf,"['L P Thean', 'Yong Pung How', 'Chao Hick Tin']"
 5306,2020_SGHC_129.pdf,['Lee Seiu Kin']
 5307,2013_SGHC_130.pdf,['Belinda Ang Saw Ean']
 5308,2007_SGHC_136.pdf,['Tay Yong Kwang']
 5309,2021_SGHC_75.pdf,['Philip Jeyaretnam']
-5310,2004_SGHC_43.pdf,['Vincent Leow AR']
+5310,2004_SGHC_43.pdf,['Vincent Leow']
 5311,2012_SGHC_255.pdf,['Tay Yong Kwang']
 5312,2018_SGHC_56.pdf,['Belinda Ang']
 5313,2018_SGHC_178.pdf,['Audrey Lim']
@@ -5341,7 +5341,7 @@ Unnamed: 0,casename,Coram
 5342,2007_SGHC_126.pdf,['Andrew Ang']
 5343,2018_SGHC_168.pdf,['George Wei']
 5344,2012_SGHC_245.pdf,['Philip Pillai']
-5345,2004_SGHC_53.pdf,['Thian Yee Sze SAR']
+5345,2004_SGHC_53.pdf,['Thian Yee Sze ']
 5346,2018_SGHC_46.pdf,['See Kee Oon']
 5347,2008_SGHC_199.pdf,['Tay Yong Kwang']
 5348,2021_SGHC_274.pdf,['Valerie Thean']
@@ -5358,7 +5358,7 @@ Unnamed: 0,casename,Coram
 5359,2001_SGCA_35.pdf,"['L P Thean', 'Lai Kew Chai', 'Chao Hick Tin']"
 5360,2021_SGHC_260.pdf,['Andre Maniam']
 5361,2018_SGHC_154.pdf,['Chua Lee Ming']
-5362,2009_SGHC_13.pdf,['Darius Chan AR']
+5362,2009_SGHC_13.pdf,['Darius Chan']
 5363,2021_SGHC_59.pdf,['See Kee Oon']
 5364,2012_SGHC_22.pdf,['Belinda Ang Saw Ean']
 5365,2023_SGHC_333.pdf,['Kwek Mean Luck']
@@ -5370,7 +5370,7 @@ Unnamed: 0,casename,Coram
 5371,2023_SGCA_27.pdf,"['Steven Chong', 'Judith Prakash']"
 5372,2006_SGCA_11.pdf,"['Yong Pung How', 'Lai Siu Chiu', 'Chao Hick Tin']"
 5373,2016_SGHC_259.pdf,['Hoo Sheau Peng']
-5374,2009_SGHC_217.pdf,['Teo Guan Siew AR']
+5374,2009_SGHC_217.pdf,['Teo Guan Siew']
 5375,2023_SGCA_33.pdf,['Tay Yong Kwang']
 5376,2005_SGHC_4.pdf,['Woo Bih Li']
 5377,2004_SGHC_90.pdf,['Kan Ting Chiu']
@@ -5440,7 +5440,7 @@ Unnamed: 0,casename,Coram
 5441,2001_SGHC_280.pdf,['Judith Prakash']
 5442,2000_SGHC_10.pdf,['Choo Han Teck']
 5443,2011_SGHC_79.pdf,['Kan Ting Chiu']
-5444,2003_SGHC_310.pdf,['Joyce Low Wei Lin AR']
+5444,2003_SGHC_310.pdf,['Joyce Low Wei Lin']
 5445,2011_SGHC_271.pdf,['Tan Lee Meng']
 5446,2022_SGHC_268.pdf,['Aedit Abdullah']
 5447,2004_SGHC_112.pdf,['Tay Yong Kwang']
@@ -5472,7 +5472,7 @@ Unnamed: 0,casename,Coram
 5473,2012_SGHC_127.pdf,['Belinda Ang Saw Ean']
 5474,2012_SGHC_133.pdf,['Tay Yong Kwang']
 5475,2017_SGHC_289.pdf,['Vinodh Coomaraswamy']
-5476,2008_SGHC_55.pdf,['Sharon Lim SAR']
+5476,2008_SGHC_55.pdf,['Sharon Lim ']
 5477,2001_SGHC_337.pdf,['Yong Pung How']
 5478,2000_SGHC_1.pdf,['Yong Pung How']
 5479,2005_SGHC_29.pdf,['Yong Pung How']
@@ -5625,7 +5625,7 @@ Unnamed: 0,casename,Coram
 5626,2008_SGHC_6.pdf,['Choo Han Teck']
 5627,2023_SGHC_246.pdf,"['Sundaresh Menon', 'Steven Chong', 'Tay Yong Kwang']"
 5628,2021_SGCA_13.pdf,['Tay Yong Kwang']
-5629,2004_SGHC_259.pdf,['Joyce Low Wei Lin AR']
+5629,2004_SGHC_259.pdf,['Joyce Low Wei Lin']
 5630,2022_SGHC_123.pdf,['Choo Han Teck']
 5631,2018_SGCA_30.pdf,"['Sundaresh Menon', 'Tay Yong Kwang', 'Judith Prakash']"
 5632,2009_SGCA_59.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Choo Han Teck']"
@@ -5637,7 +5637,7 @@ Unnamed: 0,casename,Coram
 5638,2001_SGHC_94.pdf,['Lee Seiu Kin']
 5639,2023_SGHC_79.pdf,['Tan Siong Thye']
 5640,2001_SGHC_80.pdf,['Woo Bih Li']
-5641,2000_SGHC_279.pdf,"['Phang Hsiao Chung', 'Assistant Registrar', 'Phang Hsiao Chung AR']"
+5641,2000_SGHC_279.pdf,"['Phang Hsiao Chung', 'Assistant Registrar', 'Phang Hsiao Chung']"
 5642,2017_SGHC_26.pdf,['Chao Hick Tin']
 5643,2003_SGCA_15.pdf,"['Chao Hick Tin', 'Judith Prakash']"
 5644,2001_SGHC_134.pdf,['Lee Seiu Kin']
@@ -5685,7 +5685,7 @@ Unnamed: 0,casename,Coram
 5686,2008_SGHC_97.pdf,['Choo Han Teck']
 5687,2002_SGHC_24.pdf,['MPH Rubin']
 5688,2009_SGHC_160.pdf,['Choo Han Teck']
-5689,2003_SGHC_259.pdf,['Ching Sann AR']
+5689,2003_SGHC_259.pdf,['Ching Sann']
 5690,2002_SGHC_30.pdf,['Judith Prakash']
 5691,2013_SGHC_59.pdf,['Tay Yong Kwang']
 5692,2009_SGHC_174.pdf,['Andrew Ang']
@@ -5714,7 +5714,7 @@ Unnamed: 0,casename,Coram
 5715,2015_SGHC_330.pdf,['Belinda Ang Saw Ean']
 5716,2017_SGHC_288.pdf,['Quentin Loh']
 5717,2012_SGHC_132.pdf,['Lai Siu Chiu']
-5718,2011_SGHC_2.pdf,['Zhuo Wenzhao AR']
+5718,2011_SGHC_2.pdf,['Zhuo Wenzhao']
 5719,2006_SGHC_134.pdf,['Tay Yong Kwang']
 5720,2013_SGHC_257.pdf,['Choo Han Teck']
 5721,2014_SGHC_41.pdf,['Belinda Ang Saw Ean']
@@ -5741,7 +5741,7 @@ Unnamed: 0,casename,Coram
 5742,2003_SGHC_305.pdf,['Kan Ting Chiu']
 5743,2011_SGHC_44.pdf,['Choo Han Teck']
 5744,2004_SGHC_107.pdf,['V K Rajah']
-5745,2011_SGHC_50.pdf,['Jordan Tan AR']
+5745,2011_SGHC_50.pdf,['Jordan Tan']
 5746,2000_SGHC_39.pdf,['Yong Pung How']
 5747,2004_SGHC_113.pdf,['Tay Yong Kwang']
 5748,2022_SGHC_269.pdf,"['Sundaresh Menon', 'Tay Yong Kwang', 'Woo Bih Li']"
@@ -5749,7 +5749,7 @@ Unnamed: 0,casename,Coram
 5750,2017_SGHC_317.pdf,['Woo Bih Li']
 5751,2020_SGCA_55.pdf,"['Andrew Phang Boon Leong', 'Chao Hick Tin', 'Quentin Loh']"
 5752,2019_SGCA_76.pdf,"['Steven Chong', 'Tay Yong Kwang', 'Judith Prakash']"
-5753,2010_SGHC_115.pdf,['Chan Tai-Hui Jason AR']
+5753,2010_SGHC_115.pdf,['Chan Tai-Hui Jason']
 5754,2014_SGCA_22.pdf,"['Sundaresh Menon', 'V K Rajah', 'Chao Hick Tin']"
 5755,2015_SGHC_287.pdf,['Tay Yong Kwang']
 5756,2008_SGCA_37.pdf,"['Andrew Phang Boon Leong', 'Chao Hick Tin', 'Chan Sek Keong']"
@@ -5852,7 +5852,7 @@ Unnamed: 0,casename,Coram
 5853,2004_SGHC_52.pdf,['Yong Pung How']
 5854,2012_SGHC_244.pdf,['Quentin Loh']
 5855,2018_SGHC_169.pdf,['George Wei']
-5856,2007_SGHC_127.pdf,['Brenda Chua AR']
+5856,2007_SGHC_127.pdf,['Brenda Chua']
 5857,2021_SGHC_64.pdf,['Sundaresh Menon']
 5858,2007_SGHC_133.pdf,['Belinda Ang Saw Ean']
 5859,2002_SGHC_289.pdf,['MPH Rubin']
@@ -5893,7 +5893,7 @@ Unnamed: 0,casename,Coram
 5894,2018_SGHC_143.pdf,['Kannan Ramesh']
 5895,2004_SGHC_78.pdf,['Kan Ting Chiu']
 5896,2015_SGHC_11.pdf,['Choo Han Teck']
-5897,2004_SGHC_93.pdf,['Ching Sann AR']
+5897,2004_SGHC_93.pdf,['Ching Sann']
 5898,2005_SGHC_7.pdf,"['Yong Pung How', 'Chao Hick Tin', 'Tay Yong Kwang']"
 5899,2018_SGHC_86.pdf,['Lai Siu Chiu']
 5900,2012_SGHC_35.pdf,['Tay Yong Kwang']
@@ -5912,7 +5912,7 @@ Unnamed: 0,casename,Coram
 5913,2008_SGHC_165.pdf,['Belinda Ang Saw Ean']
 5914,2003_SGHC_48.pdf,['Yong Pung How']
 5915,2023_SGHC_330.pdf,"['Kannan Ramesh', 'S Mohan']"
-5916,2004_SGHC_87.pdf,['Joyce Low Wei Lin AR']
+5916,2004_SGHC_87.pdf,['Joyce Low Wei Lin']
 5917,2018_SGHC_92.pdf,['Woo Bih Li']
 5918,2021_SGHC_288.pdf,['Choo Han Teck']
 5919,2002_SGHC_260.pdf,['Tay Yong Kwang']
@@ -5933,10 +5933,10 @@ Unnamed: 0,casename,Coram
 5934,2017_SGHC_117.pdf,['Choo Han Teck']
 5935,2018_SGHC_180.pdf,['Kannan Ramesh']
 5936,2002_SGHC_274.pdf,['Judith Prakash']
-5937,2010_SGHC_315.pdf,['Yeong Zee Kin SAR']
+5937,2010_SGHC_315.pdf,['Yeong Zee Kin ']
 5938,2023_SGHC_5.pdf,['Vinodh Coomaraswamy']
 5939,2003_SGHC_74.pdf,['Yong Pung How']
-5940,2008_SGHC_159.pdf,['Lim Jian Yi AR']
+5940,2008_SGHC_159.pdf,['Lim Jian Yi']
 5941,2022_SGHC_29.pdf,['Chua Lee Ming']
 5942,2001_SGHC_240.pdf,['Yong Pung How']
 5943,2022_SGHC_280.pdf,['Goh Yihan']
@@ -6039,7 +6039,7 @@ Unnamed: 0,casename,Coram
 6040,2020_SGHC_264.pdf,['Choo Han Teck']
 6041,2009_SGHC_189.pdf,['Choo Han Teck']
 6042,2020_SGHC_34.pdf,['Chua Lee Ming']
-6043,2009_SGHC_162.pdf,['Yeong Zee Kin SAR']
+6043,2009_SGHC_162.pdf,['Yeong Zee Kin ']
 6044,2002_SGHC_26.pdf,['Lai Siu Chiu']
 6045,2008_SGHC_95.pdf,['Chan Seng Onn']
 6046,2014_SGHC_80.pdf,['Choo Han Teck']
@@ -6270,7 +6270,7 @@ Unnamed: 0,casename,Coram
 6271,2016_SGHC_88.pdf,['Chua Lee Ming']
 6272,2003_SGHC_306.pdf,['Woo Bih Li']
 6273,2011_SGHC_47.pdf,['Choo Han Teck']
-6274,2004_SGHC_104.pdf,['Vincent Leow AR']
+6274,2004_SGHC_104.pdf,['Vincent Leow']
 6275,2003_SGCA_6.pdf,"['Yong Pung How', 'Chao Hick Tin', 'Judith Prakash']"
 6276,2019_SGCA_61.pdf,"['Steven Chong', 'Andrew Phang Boon Leong', 'Quentin Loh']"
 6277,2010_SGHC_102.pdf,['Woo Bih Li']
@@ -6337,7 +6337,7 @@ Unnamed: 0,casename,Coram
 6338,2003_SGHC_61.pdf,['Yong Pung How']
 6339,2021_SGHC_98.pdf,['Lai Siu Chiu']
 6340,2010_SGHC_300.pdf,['Steven Chong']
-6341,2002_SGHC_261.pdf,['Kenneth Yap AR']
+6341,2002_SGHC_261.pdf,['Kenneth Yap']
 6342,2016_SGHC_267.pdf,['Chan Seng Onn']
 6343,2017_SGCA_52.pdf,"['Andrew Phang Boon Leong', 'Judith Prakash', 'Quentin Loh']"
 6344,2003_SGHC_104.pdf,['Kan Ting Chiu']
@@ -6351,7 +6351,7 @@ Unnamed: 0,casename,Coram
 6352,2003_SGHC_49.pdf,['Woo Bih Li']
 6353,2023_SGHC_331.pdf,['Goh Yihan']
 6354,2008_SGHC_164.pdf,['Tay Yong Kwang']
-6355,2012_SGHC_20.pdf,['Jordan Tan AR']
+6355,2012_SGHC_20.pdf,['Jordan Tan']
 6356,2010_SGHC_328.pdf,['Lai Siu Chiu']
 6357,2002_SGHC_249.pdf,['Tay Yong Kwang']
 6358,2023_SGHC_325.pdf,['Audrey Lim']
@@ -6549,7 +6549,7 @@ Unnamed: 0,casename,Coram
 6550,2011_SGCA_57.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chao Hick Tin']"
 6551,2018_SGHC_253.pdf,"['Sundaresh Menon', 'Judith Prakash', 'Andrew Phang Boon Leong']"
 6552,2021_SGHC_167.pdf,"['Sundaresh Menon', 'Chao Hick Tin', 'Andrew Phang Boon Leong']"
-6553,2006_SGHC_178.pdf,['Yeong Zee Kin AR']
+6553,2006_SGHC_178.pdf,['Yeong Zee Kin']
 6554,2020_SGHC_52.pdf,['Choo Han Teck']
 6555,2019_SGHC_71.pdf,['Hoo Sheau Peng']
 6556,2005_SGHC_64.pdf,['Tay Yong Kwang']
@@ -6654,7 +6654,7 @@ Unnamed: 0,casename,Coram
 6656,2009_SGCA_29.pdf,"['Andrew Phang Boon Leong', 'Andrew Ang', 'Chan Sek Keong']"
 6657,2022_SGHC_153.pdf,['S Mohan']
 6658,2001_SGHC_193.pdf,['Yong Pung How']
-6659,2004_SGHC_229.pdf,['Vincent Leow AR']
+6659,2004_SGHC_229.pdf,['Vincent Leow']
 6660,2021_SGCA_63.pdf,"['Steven Chong', 'Woo Bih Li']"
 6661,2001_SGHC_187.pdf,['Choo Han Teck']
 6662,2021_SGCA_77.pdf,"['Sundaresh Menon', 'Steven Chong', 'Judith Prakash']"
@@ -6731,7 +6731,7 @@ Unnamed: 0,casename,Coram
 6733,2016_SGCA_66.pdf,"['Sundaresh Menon', 'Tay Yong Kwang', 'Judith Prakash']"
 6734,2022_SGCA_39.pdf,"['Steven Chong', 'Judith Prakash', 'Andrew Phang Boon Leong']"
 6735,2002_SGHC_159.pdf,['Choo Han Teck']
-6736,2006_SGHC_186.pdf,['Dorcas Quek AR']
+6736,2006_SGHC_186.pdf,['Dorcas Quek']
 6737,2009_SGHC_111.pdf,['Lee Seiu Kin']
 6738,2002_SGHC_55.pdf,['Lee Seiu Kin']
 6739,2006_SGHC_192.pdf,['Choo Han Teck']
@@ -6819,7 +6819,7 @@ Unnamed: 0,casename,Coram
 6822,2007_SGHC_93.pdf,['Judith Prakash']
 6823,2011_SGHC_215.pdf,['Lai Siu Chiu']
 6824,2011_SGHC_35.pdf,['Judith Prakash']
-6825,2004_SGHC_176.pdf,['Ching Sann AR']
+6825,2004_SGHC_176.pdf,['Ching Sann']
 6826,2000_SGHC_48.pdf,['Yong Pung How']
 6827,2011_SGHC_21.pdf,['Chan Seng Onn']
 6828,2004_SGHC_162.pdf,['Lai Siu Chiu']
@@ -6904,7 +6904,7 @@ Unnamed: 0,casename,Coram
 6907,2001_SGHC_9.pdf,['Chan Seng Onn']
 6908,2007_SGHC_142.pdf,['Lai Siu Chiu']
 6909,2012_SGHC_91.pdf,['Lai Siu Chiu']
-6910,2004_SGHC_37.pdf,['Tai Wei Shyong AR']
+6910,2004_SGHC_37.pdf,['Tai Wei Shyong']
 6911,2012_SGHC_221.pdf,['Philip Pillai']
 6912,2018_SGHC_22.pdf,['George Wei']
 6913,2021_SGHC_238.pdf,['Philip Jeyaretnam']
@@ -6919,7 +6919,7 @@ Unnamed: 0,casename,Coram
 6922,2015_SGHC_76.pdf,['Woo Bih Li']
 6923,2021_SGHC_210.pdf,['Choo Han Teck']
 6924,2018_SGHC_124.pdf,['Valerie Thean']
-6925,2009_SGHC_77.pdf,['Saqib Alam AR']
+6925,2009_SGHC_77.pdf,['Saqib Alam']
 6926,2015_SGHC_62.pdf,['See Kee Oon']
 6927,2021_SGHC_204.pdf,['Sundaresh Menon']
 6928,2018_SGHC_130.pdf,['Vinodh Coomaraswamy']
@@ -6949,7 +6949,7 @@ Unnamed: 0,casename,Coram
 6952,2007_SGHC_154.pdf,['Chan Seng Onn']
 6953,2018_SGHC_34.pdf,['Woo Bih Li']
 6954,2015_SGHC_48.pdf,['Quentin Loh']
-6955,2004_SGHC_21.pdf,['Amy Tung Chew Ming AR']
+6955,2004_SGHC_21.pdf,['Amy Tung Chew Ming']
 6956,2012_SGHC_237.pdf,['Tay Yong Kwang']
 6957,2010_SGHC_9.pdf,['Choo Han Teck']
 6958,2006_SGHC_231.pdf,['Sundaresh Menon']
@@ -7164,7 +7164,7 @@ Unnamed: 0,casename,Coram
 7167,2017_SGHC_82.pdf,['Chan Seng Onn']
 7168,2001_SGHC_24.pdf,"['L P Thean', 'Yong Pung How', 'Chao Hick Tin']"
 7169,2005_SGHC_167.pdf,['Andrew Phang Boon Leong']
-7170,2011_SGHC_161.pdf,['Shaun Leong Li Shiong AR']
+7170,2011_SGHC_161.pdf,['Shaun Leong Li Shiong']
 7171,2015_SGCA_17.pdf,"['Sundaresh Menon', 'Chao Hick Tin', 'Quentin Loh']"
 7172,2009_SGCA_6.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chan Sek Keong']"
 7173,2022_SGHC_178.pdf,['S Mohan']
@@ -7282,7 +7282,7 @@ Unnamed: 0,casename,Coram
 7285,2007_SGCA_24.pdf,"['Andrew Phang Boon Leong', 'Chan Sek Keong']"
 7286,2002_SGHC_172.pdf,['Choo Han Teck']
 7287,2016_SGHC_174.pdf,['See Kee Oon']
-7288,2003_SGHC_217.pdf,['Tai Wei Shyong AR']
+7288,2003_SGHC_217.pdf,['Tai Wei Shyong']
 7289,2020_SGHC_87.pdf,"['Ang Cheng Hock', 'Woo Bih Li']"
 7290,2003_SGHC_203.pdf,['Tan Lee Meng']
 7291,2020_SGHC_93.pdf,['Aedit Abdullah']
@@ -7360,9 +7360,9 @@ Unnamed: 0,casename,Coram
 7363,2011_SGHC_22.pdf,['Andrew Ang']
 7364,2004_SGHC_161.pdf,['Tay Yong Kwang']
 7365,2011_SGHC_202.pdf,['Steven Chong']
-7366,2007_SGHC_84.pdf,['Paul Tan AR']
+7366,2007_SGHC_84.pdf,['Paul Tan']
 7367,2011_SGHC_216.pdf,['Choo Han Teck']
-7368,2007_SGHC_90.pdf,['Paul Tan AR']
+7368,2007_SGHC_90.pdf,['Paul Tan']
 7369,2011_SGHC_36.pdf,['Chan Seng Onn']
 7370,2004_SGHC_175.pdf,['Yong Pung How']
 7371,2010_SGHC_173.pdf,['Philip Pillai']
@@ -7477,12 +7477,12 @@ Unnamed: 0,casename,Coram
 7480,2012_SGHC_82.pdf,['Quentin Loh']
 7481,2021_SGHC_12.pdf,['Andre Maniam']
 7482,2007_SGHC_151.pdf,['Judith Prakash']
-7483,2004_SGHC_24.pdf,['Ho Su Ching AR']
+7483,2004_SGHC_24.pdf,['Ho Su Ching']
 7484,2017_SGHC_188.pdf,['See Kee Oon']
 7485,2012_SGHC_232.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chao Hick Tin']"
 7486,2009_SGHC_58.pdf,['Judith Prakash']
 7487,2018_SGHC_31.pdf,['Chan Seng Onn']
-7488,2004_SGHC_30.pdf,['Dawn Tan Ly-Ru AR']
+7488,2004_SGHC_30.pdf,['Dawn Tan Ly-Ru']
 7489,2012_SGHC_226.pdf,['Chan Seng Onn']
 7490,2018_SGHC_25.pdf,['Choo Han Teck']
 7491,2012_SGHC_96.pdf,['Chao Hick Tin']
@@ -7513,7 +7513,7 @@ Unnamed: 0,casename,Coram
 7516,2002_SGHC_228.pdf,['Choo Han Teck']
 7517,2007_SGHC_192.pdf,['Kan Ting Chiu']
 7518,2010_SGHC_349.pdf,['Lai Siu Chiu']
-7519,2012_SGHC_41.pdf,['Yeong Zee Kin SAR']
+7519,2012_SGHC_41.pdf,['Yeong Zee Kin ']
 7520,2008_SGHC_105.pdf,['Judith Prakash']
 7521,2003_SGHC_28.pdf,['Choo Han Teck']
 7522,2023_SGHC_350.pdf,"['Steven Chong', 'Tay Yong Kwang', 'Belinda Ang']"
@@ -7618,12 +7618,12 @@ Unnamed: 0,casename,Coram
 7621,2006_SGHC_156.pdf,['Sundaresh Menon']
 7622,2002_SGHC_85.pdf,['Woo Bih Li']
 7623,2001_SGHC_354.pdf,['Woo Bih Li']
-7624,2008_SGHC_36.pdf,['Goh Yi Han AR']
+7624,2008_SGHC_36.pdf,['Goh Yi Han']
 7625,2013_SGHC_235.pdf,['Tay Yong Kwang']
 7626,2014_SGHC_23.pdf,['Lee Seiu Kin']
 7627,2019_SGHC_118.pdf,['Chua Lee Ming']
 7628,2000_SGCA_10.pdf,"['Tan Lee Meng', 'L P Thean', 'Chao Hick Tin']"
-7629,2002_SGHC_189.pdf,"['Thian Yee Sze', 'AR', 'Thian Yee Sze AR']"
+7629,2002_SGHC_189.pdf,"['Thian Yee Sze', 'Thian Yee Sze']"
 7630,2021_SGHC_149.pdf,['Chan Seng Onn']
 7631,2012_SGHC_150.pdf,['Choo Han Teck']
 7632,2000_SGCA_38.pdf,"['L P Thean', 'Yong Pung How', 'Chao Hick Tin']"
@@ -7725,7 +7725,7 @@ Unnamed: 0,casename,Coram
 7728,2015_SGCA_12.pdf,"['Andrew Phang Boon Leong', 'Chao Hick Tin', 'Tay Yong Kwang']"
 7729,2009_SGCA_3.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chao Hick Tin']"
 7730,2018_SGCA_1.pdf,"['Sundaresh Menon', 'Tay Yong Kwang', 'Andrew Phang Boon Leong']"
-7731,2004_SGHC_207.pdf,['Ching Sann AR']
+7731,2004_SGHC_207.pdf,['Ching Sann']
 7732,2023_SGHC_218.pdf,['Goh Yihan']
 7733,2010_SGHC_201.pdf,['Chan Seng Onn']
 7734,2017_SGHC_87.pdf,['Hoo Sheau Peng']
@@ -8031,7 +8031,7 @@ Unnamed: 0,casename,Coram
 8036,2007_SGHC_152.pdf,['Lee Seiu Kin']
 8037,2021_SGHC_228.pdf,['Andre Maniam']
 8038,2012_SGHC_231.pdf,['Choo Han Teck']
-8039,2004_SGHC_27.pdf,['Ching Sann AR']
+8039,2004_SGHC_27.pdf,['Ching Sann']
 8040,2018_SGHC_32.pdf,['Lee Seiu Kin']
 8041,2010_SGCA_14.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chao Hick Tin']"
 8042,2013_SGHC_154.pdf,['Lee Seiu Kin']
@@ -8144,7 +8144,7 @@ Unnamed: 0,casename,Coram
 8149,2004_SGHC_172.pdf,['Choo Han Teck']
 8150,2000_SGHC_58.pdf,['Lee Seiu Kin']
 8151,2011_SGHC_31.pdf,['Kan Ting Chiu']
-8152,2007_SGHC_97.pdf,['Mohamed Faizal AR']
+8152,2007_SGHC_97.pdf,['Mohamed Faizal']
 8153,2022_SGHC_208.pdf,['Audrey Lim']
 8154,2020_SGCA_34.pdf,"['Steven Chong', 'Judith Prakash', 'Andrew Phang Boon Leong']"
 8155,2005_SGHC_217.pdf,['Belinda Ang Saw Ean']
@@ -8231,7 +8231,7 @@ Unnamed: 0,casename,Coram
 8236,2015_SGHC_153.pdf,['Choo Han Teck']
 8237,2007_SGHC_6.pdf,['Andrew Ang']
 8238,2015_SGHC_147.pdf,['Judith Prakash']
-8239,2006_SGHC_12.pdf,['Joyce Low Wei Lin AR']
+8239,2006_SGHC_12.pdf,['Joyce Low Wei Lin']
 8240,2000_SGHC_224.pdf,['Choo Han Teck']
 8241,2023_SGHC_24.pdf,['Andre Maniam']
 8242,2022_SGHC_181.pdf,['Aedit Abdullah']
@@ -8300,7 +8300,7 @@ Unnamed: 0,casename,Coram
 8305,2018_SGCA_78.pdf,"['Steven Chong', 'Belinda Ang', 'Quentin Loh']"
 8306,2011_SGHC_172.pdf,['Judith Prakash']
 8307,2009_SGCA_11.pdf,"['Andrew Phang Boon Leong', 'V K Rajah', 'Chan Sek Keong']"
-8308,2004_SGHC_211.pdf,['Vincent Leow AR']
+8308,2004_SGHC_211.pdf,['Vincent Leow']
 8309,2010_SGHC_217.pdf,['Belinda Ang Saw Ean']
 8310,2017_SGHC_91.pdf,['Chua Lee Ming']
 8311,2005_SGHC_174.pdf,['Judith Prakash']
@@ -8423,7 +8423,7 @@ Unnamed: 0,casename,Coram
 8428,2008_SGHC_34.pdf,"['Andrew Phang Boon Leong', 'Tan Lee Meng', 'Tay Yong Kwang']"
 8429,2001_SGHC_356.pdf,['Choo Han Teck']
 8430,2002_SGHC_87.pdf,['Woo Bih Li']
-8431,2006_SGHC_154.pdf,['Teo Guan Siew AR']
+8431,2006_SGHC_154.pdf,['Teo Guan Siew']
 8432,2022_SGHC_209.pdf,['Aedit Abdullah']
 8433,2007_SGHC_96.pdf,['Lee Seiu Kin']
 8434,2011_SGHC_210.pdf,['Quentin Loh']
@@ -8473,7 +8473,7 @@ Unnamed: 0,casename,Coram
 8478,2016_SGHC_28.pdf,['Chan Seng Onn']
 8479,2022_SGHC_77.pdf,['Vinodh Coomaraswamy']
 8480,2014_SGHC_155.pdf,['Judith Prakash']
-8481,2007_SGHC_69.pdf,['Paul Tan AR']
+8481,2007_SGHC_69.pdf,['Paul Tan']
 8482,2001_SGHC_236.pdf,['Yong Pung How']
 8483,2023_SGHC_193.pdf,['Tan Siong Thye']
 8484,2015_SGHC_230.pdf,['See Kee Oon']
@@ -8515,7 +8515,7 @@ Unnamed: 0,casename,Coram
 8520,2016_SGHC_238.pdf,['Vinodh Coomaraswamy']
 8521,2009_SGHC_276.pdf,['Philip Pillai']
 8522,2015_SGHC_98.pdf,['Judith Prakash']
-8523,2008_SGHC_113.pdf,['Chew Chin Yee AR']
+8523,2008_SGHC_113.pdf,['Chew Chin Yee']
 8524,2023_SGHC_346.pdf,['Hoo Sheau Peng']
 8525,2012_SGHC_57.pdf,['Steven Chong']
 8526,2007_SGHC_184.pdf,['Woo Bih Li']
