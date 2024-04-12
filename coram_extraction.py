@@ -2,6 +2,7 @@ import re
 import pypdf
 import spacy
 import os
+import numpy as np
 import pandas as pd
 import difflib
 import fitz
@@ -176,7 +177,7 @@ def coram_extraction_post_2016(pdf_path):
 # Step 4B: Output or store recognised names pre-2016 format
 def coram_extraction_pre_2016(pdf_path):
     coram_pattern = re.compile(r"(Coram)\s*:\s*(.+)")
-    remove_title_pattern = r'\b(?: CJ| SJ| JC| JA| J| AG| DCJ| AR| SAR)\b'  # Add more titles as needed
+    remove_title_pattern = r'\b(?: CJ| SJ| JC| JA| J| AG| DCJ| AR| SAR|, JC| ,CJ|, J|, AR)\b'  # Add more titles as needed
     case_coram_list = []
     
     doc = fitz.open(pdf_path)
@@ -230,14 +231,12 @@ def batch_process_coram(folder_path):
     }
 
     df = pd.DataFrame(coram_dict)
-    print(df)
     df.to_csv('final_coram_data.csv')
 
 
     unusable_files_dict = {'fname': unusable_files}
 
     df2 = pd.DataFrame(unusable_files_dict)
-    print(df2)
     df2.to_csv('Unusable Files.csv')
 
     print(
@@ -253,4 +252,7 @@ batch_process_coram(folder_path)
 # pdf_path2 = r'data/raw/2016_SGHC_38.pdf'
 # test = coram_extraction_pre_2016(pdf_path)
 # print(test)
-        
+
+df = pd.read_csv('final_coram_data.csv', index_col=0)
+df['Coram'] = df['Coram'].apply(lambda x: x if pd.isnull(x) else list(set(ast.literal_eval(x))))
+df.to_csv('Coram_Data.csv')
