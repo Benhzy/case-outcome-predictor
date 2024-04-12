@@ -11,3 +11,4 @@ issues.csv
 
 # misc
 .DS_Store
+data/prediction_data/issues.json
