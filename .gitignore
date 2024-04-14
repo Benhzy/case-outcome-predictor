@@ -13,3 +13,5 @@ issues.csv
 .DS_Store
 data/prediction_data/issues.json
 Baseline_CNN.pt
+Unusable Files.csv
+final_coram_data.csv
