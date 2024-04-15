@@ -15,3 +15,4 @@ data/prediction_data/issues.json
 *.pt
 Unusable Files.csv
 final_coram_data.csv
+*.pt
