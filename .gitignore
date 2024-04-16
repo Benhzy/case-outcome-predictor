@@ -12,7 +12,7 @@ issues.csv
 # misc
 .DS_Store
 data/prediction_data/issues.json
-Baseline_CNN.pt
+*.pt
 Unusable Files.csv
 final_coram_data.csv
 *.pt
