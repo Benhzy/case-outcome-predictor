@@ -5,11 +5,8 @@ AWS_REGION = os.getenv("AWS_REGION")
 AWS_ACCESS_KEY_ID = os.getenv("AWS_ACCESS_KEY_ID") 
 AWS_SECRET_ACCESS_KEY = os.getenv("AWS_SECRET_ACCESS_KEY")  
 
-# s3 = boto3.client('s3', region_name=AWS_REGION, aws_access_key_id=AWS_ACCESS_KEY_ID,
-#                           aws_secret_access_key=AWS_SECRET_ACCESS_KEY)
-
-s3 = boto3.client('s3', region_name="ap-southeast-1", aws_access_key_id="AKIA3FLDZ5P3PVPJVCF6",
-                          aws_secret_access_key="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")
+s3 = boto3.client('s3', region_name=AWS_REGION, aws_access_key_id=AWS_ACCESS_KEY_ID,
+                          aws_secret_access_key=AWS_SECRET_ACCESS_KEY)
 
 bucket = 'sg-auth-bucket'
 os.makedirs('data/raw', exist_ok=True)
